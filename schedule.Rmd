@@ -41,18 +41,14 @@ title: "Schedule"
 
 ### Wed, Aug 30
 
+- Tour of [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu). Meet in lobby of [Chandlee Lab](http://www.psumap.com/#Chandlee%20Lab)
+
+### Fri, Sep 1
+
 - Neuroanatomy I
 - Assignment
     - Read W&B: 2:30-43.
 - Lecture notes
-
-### Fri, Sep 1
-
-- Neuroanatomy II
-- **Quiz 1**.
-- Assignment
-    - Read W&B: 2:30-43.
-    - Read W&B: 2:20-29.
 
 ---
 
@@ -64,11 +60,15 @@ title: "Schedule"
 
 ### Wed, Sep 6
 
-- Neuroanatomy Lab
+- Neuroanatomy II
+- **Quiz 1**.
+- Assignment
+    - Read W&B: 2:30-43.
+    - Read W&B: 2:20-29.
 
 ### Fri, Sep 8
 
-- Neuroanatomy Lab. 
+- Neuroanatomy Lab
 
 ---
 
@@ -77,6 +77,7 @@ title: "Schedule"
 ### Mon, Sep 11
 
 - Neuroanatomy III
+- Neuroanatomy Lab. 
 
 ### Wed, Sep 13
 
