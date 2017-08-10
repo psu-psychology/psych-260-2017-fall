@@ -1,0 +1,27 @@
+name: "PSYCH 260.002 Fall 2017"
+navbar:
+  title: "PSYCH 260.002"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Evaluation"
+      href: evaluation.html
+    - text: "Deadlines"
+      href: deadlines.html
+    - text: "Policies"
+      href: policies.html
+    - text: "Blogs"
+      href: blogs.html
+    - text: "News"
+      href: talks.html
+    - text: "Site info"
+      href: site-info.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html

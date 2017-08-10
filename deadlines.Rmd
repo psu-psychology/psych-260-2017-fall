@@ -1,0 +1,17 @@
+---
+title: "Deadlines"
+---
+
+| Date      | What's due/happening |
+|-----------|----------------------|
+| F Sep 1   | Quiz 1               |
+| F Sep 22  | Exam 1               |
+| M Oct 2   | Quiz 2               |
+| M Oct 2   | [Blog post 1](blogs.html) due      |
+| F Oct 13  | Exam 2               |
+| F Oct 27  | Quiz 3               |
+| F Nov 3   | [Blog post 2](blogs.html) due      |
+| F Nov 8   | Exam 3               |
+| M Nov 27  | Short paper or [Blog post 3](blogs.html) due |
+| F Dec 1   | Quiz 4               |
+| TBA       | Exam 4               |

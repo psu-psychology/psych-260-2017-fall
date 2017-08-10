@@ -1,0 +1,327 @@
+---
+title: "Schedule"
+---
+
+## Week 1, August 21 - 25
+
+### Mon, Aug 21
+
+- Introduction to the course
+- What is a system?
+- Assignment
+    - Read W&B 1:2-19.
+    - Review <https://en.wikipedia.org/wiki/Systems_theory>
+
+### Wed, Aug 23
+
+- History of neuroscience
+- Assignment
+    - Review <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
+   - Scan: <https://faculty.washington.edu/chudler/hist.html>
+
+### Fri, Aug 25
+
+- Levels of analysis; neuroscience methods I
+- Assignments
+    - Read: W&B 2:24, 26, 44-49, 3:53, 70-76.
+    - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
+    - Optional
+        - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688).
+
+---
+
+## Week 2, August 28 - September 1
+
+### Mon, Aug 28
+
+- Neuroscience methods II.
+- Assignment
+    - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
+    - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
+
+### Wed, Aug 30
+
+- Neuroanatomy I
+- Assignment
+    - Read W&B: 2:30-43.
+- Lecture notes
+
+### Fri, Sep 1
+
+- Neuroanatomy II
+- **Quiz 1**.
+- Assignment
+    - Read W&B: 2:30-43.
+    - Read W&B: 2:20-29.
+
+---
+
+## Week 3, September 4 - 8
+
+### Mon, Sep 4
+
+**Labor Day, NO CLASS**
+
+### Wed, Sep 6
+
+- Neuroanatomy Lab
+
+### Fri, Sep 8
+
+- Neuroanatomy Lab. 
+
+---
+
+## Week 4, September 11 - 15
+
+### Mon, Sep 11
+
+- Neuroanatomy III
+
+### Wed, Sep 13
+
+- Cells of the nervous system
+- Neurophysiology I
+- Assignment
+    - Read W&B: 2:20-29.
+    - Read W&B 3:50-55.
+
+### Fri, Sep 15
+
+- Neurophysiology II.
+- Assignment
+    - Read W&B 3:55-59.
+    - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
+    
+---
+
+## Week 5, September 18 - 22
+
+### Mon, Sep 18
+
+- Neurophysiology III
+- Assignment
+    - Read W&B 3:59-69
+
+### Wed, Sep 20
+
+- Neurophysiology IV
+- Exam 1 review
+
+### Fri, Sep 22
+<!-- Rosh Hashana Day 2 -->
+- **Exam 1**.
+
+---
+
+## Week 6, September 25 - 29
+
+### Mon, Sep 25
+
+- Neurochemistry I
+- Assignment
+    -  Read W&B 4:82-86
+
+### Wed, Sep 27
+
+- Neurochemistry II
+- Assignment
+    -  Read W&B 4:82-86
+
+### Fri, Sep 29
+
+- Hormones and the brain
+- Assignment
+    - Read W&B 8:208-226
+
+---
+
+## Week 7, October 2 - 6
+
+### Mon, Oct 2
+
+- **Quiz 2**.
+- Exam 1 returned.
+- **Blog post 1 (of 3) due**.
+
+### Wed, Oct 4
+
+- Evolution of the human brain.
+- Assignment
+    - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+
+### Fri, Oct 6
+
+- Development of the brain
+
+---
+    
+## Week 8, October 9 - 13
+
+### Mon, Oct 9
+
+- Development of the adolescent brain
+
+### Wed, Oct 11
+
+- Review for Exam 2
+
+### Fri, Oct 13
+
+- **Exam  2**.
+
+---
+
+## Week 9, October 16 - 20
+
+### Mon, Oct 16
+
+- Psychopathology I: Schizophrenia.
+- Assignment
+    - Read W&B 12:338-352.
+
+### Wed, Oct 18
+
+- Psychopathology II: Bipolar disorder.
+- Assignment
+    - Read W&B 12:358-359.
+
+### Fri, March 20
+
+- Topic
+    - Psychopathology III: Depression.
+- Assignment
+    - Read W&B 12:352-358.
+
+---
+
+## Week 10, October 23 - 27
+
+#### Mon, Oct 23
+
+- Topic
+    - Emotion, Happiness, Reward
+- Assignment
+    - Read W&B 11:310-336
+
+### Wed, Oct 25
+
+- Fear and Stress
+
+### Fri, Oct 27
+
+- **Quiz 3**.
+- Exam 2 returned.
+
+---
+
+## Week 11, October 30 - November 3
+
+### Mon, Oct 30
+
+- Sensory systems
+- Assignment
+    - Read W&B 5:110-121
+
+### Wed, Nov 1
+
+- Somatosensation
+- Assignment
+    - Read W&B 5:121-126; 6:162-164
+
+### Fri, Nov 3
+
+- Pain
+- Assignment
+    - **Blog post #2 (of 3) due**    
+
+---
+
+## Week 12, November 6 - 10
+
+### Mon, Nov 6
+
+- Action
+- Assignment
+    - Read W&B 5:126-143
+
+### Wed, Nov 8
+
+- Action
+- Exam 3 review
+
+### Fri, Nov 10
+
+- **Exam 3**.
+
+---
+
+## Week 13, November 13 - 17
+
+### Mon, Nov 13
+
+- Audition
+- Assignment
+  - Read W&B 6:144-162
+
+### Wed, Nov 15
+
+- Vision I
+- Assignment
+    - Read W&B 7:174-185.
+
+### Fri, Nov 17
+
+- Vision II.
+- Assignment
+    - Read W&B 7:185-207.
+
+---
+
+## Thanksgiving Break, November 20 - 24
+
+**NO CLASSES**
+
+---
+
+## Week 14, November 27 - December 1
+
+### Mon, Nov 27
+
+- Learning & memory
+- Assignment
+    - Read 13:368-383
+- **Papers or blog post #3 (of 3) due**
+
+### Wed, Nov 30
+
+- Learning & memory II
+- Assignment
+    - Read 13:368-383-393
+
+### Fri, Dec 1
+
+- **Quiz 4**.
+- Exam 3 returned.
+
+---
+
+## Week 15, December 4 - 8
+
+### Mon, Dec 4
+
+- Speed of nervous system conduction lab
+
+### Wed, Dec 6
+
+- Review for Exam 4.
+
+### Fri, Dec 8
+
+- The Cerebral Symphony
+
+---
+    
+## Finals Week, December 11 - 15
+
+### Exam 4 TBA
