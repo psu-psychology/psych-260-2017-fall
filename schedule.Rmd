@@ -11,6 +11,8 @@ title: "Schedule"
 - Assignment
     - Read W&B 1:2-19.
     - Review <https://en.wikipedia.org/wiki/Systems_theory>
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-08-21.html) |
 
 ### Wed, Aug 23
 
