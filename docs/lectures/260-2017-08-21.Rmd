@@ -1,0 +1,259 @@
+---
+title: "260-2017-08-21"
+author: "Rick O. Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    widescreen: true
+    incremental: false
+    transition: default
+  pdf_document: default
+  github_document: default
+---
+
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JB7jSFeVz1U" frameborder="0" allowfullscreen></iframe>
+
+---
+
+<div class="centered">
+### PSYCH 260.002 {.flexbox .vcenter}
+### Neurological Bases of Human Behavior
+<img src="img/fesi-source.jpg"/>
+</div>
+
+## Instructor & TA {.flexbox .vcenter}
+
+<div class="centered">
+### **Rick O. Gilmore**, Ph.D.</br>
+Associate Professor of Psychology</br>
+
+### **Jason Feldman**</br>
+Graduate Teaching Assistant</br>
+</div>
+
+## What is this course about?
+
+- What is behavior?
+- What distinguishes human behavior from other animals?
+- What are neurological bases?
+- What other bases are there?
+- How do the neurological bases of human behavior affect your life?
+
+----
+
+- Why does taking/drinking X make me feel Y?
+- My grandmother has Alzheimer's disease. What's happening to her brain?
+- Carrie Fisher had bipolar disorder. What's that about?
+- Why is sleep so important for brain health?
+- My mom says my brain isn't fully mature. Is she right?
+- Is it safe for high school athletes to play football (or soccer, hockey, etc.)?
+
+## This course is about...
+
+## Genes {.flexbox .vcenter .smaller}
+
+<div class="centered">
+<a href="http://ecx.images-amazon.com/images/I/41OzMnt3lpL._SX319_BO1,204,203,200_.jpg"><img src="http://ecx.images-amazon.com/images/I/41OzMnt3lpL._SX319_BO1,204,203,200_.jpg" height=500px/></a>
+</div>
+
+## Neurotransmitters
+
+<div class="centered">
+<a href="http://rlv.zcache.com/blame_my_neurotransmitters_if_not_paying_attention_mousepad-p144383961261005279trak_400.jpg">
+<img src="http://rlv.zcache.com/blame_my_neurotransmitters_if_not_paying_attention_mousepad-p144383961261005279trak_400.jpg" height=500px/></a>
+</div>
+
+## Neurons
+
+<div class="centered">
+<a href="http://www.biolegend.com/NewsLegend/032515blog/neuron_cartoon.jpg">
+<img src="http://www.biolegend.com/NewsLegend/032515blog/neuron_cartoon.jpg" height=500px/></a>
+</div>
+
+## Networks
+
+<div class="centered">
+<a href="https://s-media-cache-ak0.pinimg.com/236x/a9/94/3a/a9943ae81a965e483227b6f9f5e7ca5f.jpg">
+<img src="https://s-media-cache-ak0.pinimg.com/236x/a9/94/3a/a9943ae81a965e483227b6f9f5e7ca5f.jpg" height=500px/>
+</a>
+</div>
+
+## Brains
+
+<div class="centered">
+<a href="http://unearthedcomics.com/wp-content/uploads/2012/12/Unearthed-BrainWandering-1211-2-web.jpg">
+<img src="http://unearthedcomics.com/wp-content/uploads/2012/12/Unearthed-BrainWandering-1211-2-web.jpg" height=500px/>
+</a>
+</div>
+
+## Behavior {.flexbox .vcenter}
+
+<div class="centered">
+<a href="http://www.glasbergen.com/wp-content/gallery/teen/edu01.gif">
+<img src="http://www.glasbergen.com/wp-content/gallery/teen/edu01.gif"/>
+</a>
+</div>
+
+## Today's topics
+
+- Introduction to the course
+- A bit about systems
+
+## Course overview
+
+- <http://psu-psychology.gitbub.io/psych-260-2017-fall/>
+
+## Keys for success
+
+- Study the figures.
+- Study regularly -- don't cram.
+- Come to class.
+- Participate!
+
+## Why is biology essential for the science of behavior?
+
+- What is science?
+  - What distinguishes sciences?
+  - What is neuroscience?
+- Why is neuroscience harder than physics?
+
+## What is science?
+
+- [Science](http://dictionary.reference.com/browse/science)
+
+## What is science?
+
+- Body of facts or truths.
+- Process of acquiring knowledge
+  - Systematic study
+  - Observation, experiment, description
+  - Strives for objectivity
+  - Aims at reliable, reproducible, general, systematic, universal laws
+
+## Gilmore on science vs. other ways of thinking
+
+- Science is a way of thinking
+- Science *describes* or *predicts*, but not well-suited to *proscribing*
+- Science has little to say about what is good, just, right, moral, etc.
+- Science rests on evidence and logic NOT on authorities
+- Science respects tradition, but questions and tests it
+
+## Gilmore on science vs. other ways of thinking
+
+- Science (and allied fields) 
+    + led to huge advances in human health and prosperity.
+    + will be essential for maintaining and extending those advances in the future
+
+## [Mertonian norms](https://en.wikipedia.org/wiki/Mertonian_norms)
+
+- **universalism**: scientific validity independent of sociopolitical status/personal attributes of its participants
+- **“communalism”**: common ownership of scientific goods (intellectual property)
+- **disinterestedness**: scientific institutions benefit a common scientific enterprise, not specific individuals
+- **organized scepticism**: claims should be exposed to critical scrutiny before being accepted.
+
+<div class="notes">
+Modern science aspires to embody these norms.
+</div>
+
+## Your turn: How does science differ from other ways of knowing?
+
+## Similarities between sciences
+
+- What are the different kinds of X?
+    - Form, e.g., anatomy
+- How does X work?
+    - Function, e.g., physiology
+- Where did X come from?
+    - Origins, e.g., development/evolution
+
+## Differences among sciences
+
+- Phenomena of interest
+- Methods or tools
+- Levels of analysis
+    - Spatial scale (nanometers to light-years)
+    - Temporal scale (milliseconds to millenia)
+    
+## What is neuroscience?
+
+- The study of the nervous system
+    - And the behavior it makes possible
+- Questions
+    - What are the parts of the nervous system?
+    - How do the parts work?  What do they do?
+    - Where did they come from?
+  
+## Why neuroscience is harder than physics {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/psych-harder-1.jpg" width=800px//>
+</div>
+
+## Why neuroscience is more fun than physics {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/psych-harder-2.jpg" width=800px//>
+</div>
+
+## A bit about systems
+
+<div class="centered">
+<a href="https://s3.amazonaws.com/lowres.cartoonstock.com/fashion-smart_casual-dress_code-dress_code-protest-fashion_statement-sbln385_low.jpg">
+<img src="https://s3.amazonaws.com/lowres.cartoonstock.com/fashion-smart_casual-dress_code-dress_code-protest-fashion_statement-sbln385_low.jpg" height=450px>
+</a>
+</div>
+
+## A bit about systems
+
+- What are systems?
+
+## Related ideas
+
+- Wikipedia on [systems theory](https://en.wikipedia.org/wiki/Systems_theory)
+- Wikipedia on [systems thinking](https://en.wikipedia.org/wiki/Systems_thinking)
+- Wikipedia on [cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
+    - *Science concerned with the study of systems of any nature which are capable of receiving, storing and processing information so as to use it for control.*
+
+## Non-biological examples
+
+- Solar system
+- Climate system
+- Economic system
+- Internet
+
+## Systems have
+
+- Components
+- Interactions
+- Forces/influences
+- Boundaries
+- Inputs/outputs/processes
+
+## Systems...
+
+- "Behave" or change state across time
+- Return to starting state
+- Appear to be regulated, controlled, influenced by feedback loops
+
+## May be thought of as [networks](https://en.wikipedia.org/wiki/Network_science)
+
+<div class="centered">
+<a href="https://source.wustl.edu/2013/08/brain-flexible-hub-network-helps-humans-adapt/">
+<img src="https://source.wustl.edu/wp-content/uploads/2013/08/ColeCoverFlexHub470x340.jpg" height=450px>
+</a>
+</div>
+
+## Why is studying systems so hard?
+
+- Single parts -> multiple functions
+- Single functions -> multiple parts
+- Change structure/function over time (learning, development)
+- Biological systems not "designed" like human-engineered ones
+- What information is being processed? What is being controlled?
+
+## Next time...
+
+- History of neuroscience
