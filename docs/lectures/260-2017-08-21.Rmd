@@ -198,6 +198,8 @@ Modern science aspires to embody these norms.
 <img src="img/psych-harder-2.jpg" width=800px//>
 </div>
 
+<!-- Ended here 2017-08-21 -->
+
 ## A bit about systems
 
 <div class="centered">

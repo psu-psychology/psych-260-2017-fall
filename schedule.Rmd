@@ -19,8 +19,9 @@ title: "Schedule"
 - History of neuroscience
 - Assignment
     - Review <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
-   - Scan: <https://faculty.washington.edu/chudler/hist.html>
-
+    - Scan: <https://faculty.washington.edu/chudler/hist.html>
+- Materials
+    - Lecture notes. | [HTML slides](260-2017-08-23-systems-history.html) | 
 ### Fri, Aug 25
 
 - Levels of analysis; neuroscience methods I
