@@ -229,8 +229,6 @@ output:
     - Nature of neural communication
 - Forms at multiple levels of analysis contribute to function
 
-## Does it matter who did what in science?
-
 ## Next time...
 
 - Levels of analysis
