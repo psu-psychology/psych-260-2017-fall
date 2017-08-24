@@ -8,7 +8,7 @@ title: "Schedule"
 
 - Introduction to the course
 - What is a system?
-- Assignment
+- Assignments
     - Read W&B 1:2-19.
     - Review <https://en.wikipedia.org/wiki/Systems_theory>
 - Materials
@@ -17,12 +17,11 @@ title: "Schedule"
 ### Wed, Aug 23
 
 - History of neuroscience
-- Assignment
+- Assignments
     - Review <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
     - Scan: <https://faculty.washington.edu/chudler/hist.html>
 - Materials
     - Lecture notes. | [HTML slides](lectures/260-2017-08-23-systems-history.html) |
-
 
 ### Fri, Aug 25
 
@@ -31,7 +30,10 @@ title: "Schedule"
     - Read: W&B 2:24, 26, 44-49, 3:53, 70-76.
     - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
     - Optional
-        - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688).
+        - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
+        - [Powers of Ten](https://www.youtube.com/embed/0fKBhvDjuy0)
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-08-25-levels-methods.html)
 
 ---
 
@@ -40,7 +42,7 @@ title: "Schedule"
 ### Mon, Aug 28
 
 - Neuroscience methods II.
-- Assignment
+- Assignments
     - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
 
@@ -51,7 +53,7 @@ title: "Schedule"
 ### Fri, Sep 1
 
 - Neuroanatomy I
-- Assignment
+- Assignments
     - Read W&B: 2:30-43.
 - Lecture notes
 
@@ -67,7 +69,7 @@ title: "Schedule"
 
 - Neuroanatomy II
 - **Quiz 1**.
-- Assignment
+- Assignments
     - Read W&B: 2:30-43.
     - Read W&B: 2:20-29.
 
@@ -88,14 +90,14 @@ title: "Schedule"
 
 - Cells of the nervous system
 - Neurophysiology I
-- Assignment
+- Assignments
     - Read W&B: 2:20-29.
     - Read W&B 3:50-55.
 
 ### Fri, Sep 15
 
 - Neurophysiology II.
-- Assignment
+- Assignments
     - Read W&B 3:55-59.
     - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
     
@@ -106,7 +108,7 @@ title: "Schedule"
 ### Mon, Sep 18
 
 - Neurophysiology III
-- Assignment
+- Assignments
     - Read W&B 3:59-69
 
 ### Wed, Sep 20
@@ -125,19 +127,19 @@ title: "Schedule"
 ### Mon, Sep 25
 
 - Neurochemistry I
-- Assignment
+- Assignments
     -  Read W&B 4:82-86
 
 ### Wed, Sep 27
 
 - Neurochemistry II
-- Assignment
+- Assignments
     -  Read W&B 4:82-86
 
 ### Fri, Sep 29
 
 - Hormones and the brain
-- Assignment
+- Assignments
     - Read W&B 8:208-226
 
 ---
@@ -153,7 +155,7 @@ title: "Schedule"
 ### Wed, Oct 4
 
 - Evolution of the human brain.
-- Assignment
+- Assignments
     - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 
 ### Fri, Oct 6
@@ -183,20 +185,20 @@ title: "Schedule"
 ### Mon, Oct 16
 
 - Psychopathology I: Schizophrenia.
-- Assignment
+- Assignments
     - Read W&B 12:338-352.
 
 ### Wed, Oct 18
 
 - Psychopathology II: Bipolar disorder.
-- Assignment
+- Assignments
     - Read W&B 12:358-359.
 
 ### Fri, March 20
 
 - Topic
     - Psychopathology III: Depression.
-- Assignment
+- Assignments
     - Read W&B 12:352-358.
 
 ---
@@ -207,7 +209,7 @@ title: "Schedule"
 
 - Topic
     - Emotion, Happiness, Reward
-- Assignment
+- Assignments
     - Read W&B 11:310-336
 
 ### Wed, Oct 25
@@ -226,19 +228,19 @@ title: "Schedule"
 ### Mon, Oct 30
 
 - Sensory systems
-- Assignment
+- Assignments
     - Read W&B 5:110-121
 
 ### Wed, Nov 1
 
 - Somatosensation
-- Assignment
+- Assignments
     - Read W&B 5:121-126; 6:162-164
 
 ### Fri, Nov 3
 
 - Pain
-- Assignment
+- Assignments
     - **Blog post #2 (of 3) due**    
 
 ---
@@ -248,7 +250,7 @@ title: "Schedule"
 ### Mon, Nov 6
 
 - Action
-- Assignment
+- Assignments
     - Read W&B 5:126-143
 
 ### Wed, Nov 8
@@ -267,19 +269,19 @@ title: "Schedule"
 ### Mon, Nov 13
 
 - Audition
-- Assignment
+- Assignments
   - Read W&B 6:144-162
 
 ### Wed, Nov 15
 
 - Vision I
-- Assignment
+- Assignments
     - Read W&B 7:174-185.
 
 ### Fri, Nov 17
 
 - Vision II.
-- Assignment
+- Assignments
     - Read W&B 7:185-207.
 
 ---
@@ -295,14 +297,14 @@ title: "Schedule"
 ### Mon, Nov 27
 
 - Learning & memory
-- Assignment
+- Assignments
     - Read 13:368-383
 - **Papers or blog post #3 (of 3) due**
 
 ### Wed, Nov 30
 
 - Learning & memory II
-- Assignment
+- Assignments
     - Read 13:368-383-393
 
 ### Fri, Dec 1

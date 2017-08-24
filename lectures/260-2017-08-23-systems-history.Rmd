@@ -28,7 +28,7 @@ output:
 
 - What can *observation* tell us about brain and behavior?
 - Vital role of *tools/methods/techniques* in discovery
-- *"If I have seen further, it is by standing on the shoulders of giants."* -- Isacc Newton, 1676
+- *"If I have seen further, it is by standing on the shoulders of giants."* -- Isaac Newton, 1676
 
 ----
 
@@ -228,8 +228,6 @@ output:
     - Localist/holist debate
     - Nature of neural communication
 - Forms at multiple levels of analysis contribute to function
-
-## Does it matter who did what in science?
 
 ## Next time...
 

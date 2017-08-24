@@ -16,7 +16,7 @@ output:
 
 ## Today's topics
 
-- Wrap-up on [systems](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-21.html#29)
+- Wrap-up on [systems](https://psu-psychology.github.io/psych-260-2017-fall/lecture-notes/260-2017-08-21.html#29)
 - History of neuroscience
 
 ## History of neuroscience
@@ -28,7 +28,7 @@ output:
 
 - What can *observation* tell us about brain and behavior?
 - Vital role of *tools/methods/techniques* in discovery
-- *"If I have seen further, it is by standing on the shoulders of giants."* -- Isacc Newton, 1676
+- *"If I have seen further, it is by standing on the shoulders of giants."* -- Isaac Newton, 1676
 
 ----
 
@@ -228,8 +228,6 @@ output:
     - Localist/holist debate
     - Nature of neural communication
 - Forms at multiple levels of analysis contribute to function
-
-## Does it matter who did what in science?
 
 ## Next time...
 
