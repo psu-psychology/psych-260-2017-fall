@@ -343,9 +343,7 @@ The psychologist and behavioral biologist Robert Sapolsky released a book earlie
 ## [Diffusion tensor imaging (DTI)](https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging)
 
 <div class="centered">
-<img src="https://www.simonsfoundation.org/wp-content/uploads/2012/02/hitting-nerve3.jpeg" width=800px>
-
-<https://www.simonsfoundation.org/wp-content/uploads/2012/02/hitting-nerve3.jpeg>
+<img src="https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg" width=800px>
 </div>
 
 ## [Diffusion tensor imaging (DTI)](https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging)

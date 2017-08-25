@@ -33,7 +33,7 @@ title: "Schedule"
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
         - [Powers of Ten](https://www.youtube.com/embed/0fKBhvDjuy0)
 - Materials
-    - Lecture notes. | [HTML slides](lectures/260-2017-08-25-levels-methods.html)
+    - Lecture notes. | [HTML slides](lectures/260-2017-08-25-levels-methods.html) |
 
 ---
 
