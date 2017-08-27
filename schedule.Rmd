@@ -2,6 +2,8 @@
 title: "Schedule"
 ---
 
+*[W&B](https://2e.mindsmachine.com/) refers to the Watson & Breedlove text. Assignments are given in <chapter>:<pages> format, e.g., 1:2-19 means read Chapter 1, pages 2-19.*
+
 ## Week 1, August 21 - 25
 
 ### Mon, Aug 21
@@ -9,7 +11,7 @@ title: "Schedule"
 - Introduction to the course
 - What is a system?
 - Assignments
-    - Read W&B 1:2-19.
+    - Read [W&B](https://2e.mindsmachine.com/) 1:2-19.
     - Review <https://en.wikipedia.org/wiki/Systems_theory>
 - Materials
     - Lecture notes. | [HTML slides](lectures/260-2017-08-21.html) |
@@ -27,7 +29,7 @@ title: "Schedule"
 
 - Levels of analysis; neuroscience methods I
 - Assignments
-    - Read: W&B 2:24, 26, 44-49, 3:53, 70-76.
+    - Read: [W&B](https://2e.mindsmachine.com/) 2:24, 26, 44-49, 3:53, 70-76.
     - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
     - Optional
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688)
@@ -56,7 +58,7 @@ title: "Schedule"
 
 - Neuroanatomy I
 - Assignments
-    - Read W&B: 2:30-43.
+    - Read [W&B](https://2e.mindsmachine.com/): 2:30-43.
 - Lecture notes
 
 ---
@@ -72,8 +74,8 @@ title: "Schedule"
 - Neuroanatomy II
 - **Quiz 1**.
 - Assignments
-    - Read W&B: 2:30-43.
-    - Read W&B: 2:20-29.
+    - Read [W&B](https://2e.mindsmachine.com/): 2:30-43.
+    - Read [W&B](https://2e.mindsmachine.com/): 2:20-29.
 
 ### Fri, Sep 8
 
@@ -93,14 +95,14 @@ title: "Schedule"
 - Cells of the nervous system
 - Neurophysiology I
 - Assignments
-    - Read W&B: 2:20-29.
-    - Read W&B 3:50-55.
+    - Read [W&B](https://2e.mindsmachine.com/): 2:20-29.
+    - Read [W&B](https://2e.mindsmachine.com/) 3:50-55.
 
 ### Fri, Sep 15
 
 - Neurophysiology II.
 - Assignments
-    - Read W&B 3:55-59.
+    - Read [W&B](https://2e.mindsmachine.com/) 3:55-59.
     - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
     
 ---
@@ -111,7 +113,7 @@ title: "Schedule"
 
 - Neurophysiology III
 - Assignments
-    - Read W&B 3:59-69
+    - Read [W&B](https://2e.mindsmachine.com/) 3:59-69
 
 ### Wed, Sep 20
 
@@ -130,19 +132,19 @@ title: "Schedule"
 
 - Neurochemistry I
 - Assignments
-    -  Read W&B 4:82-86
+    -  Read [W&B](https://2e.mindsmachine.com/) 4:82-86
 
 ### Wed, Sep 27
 
 - Neurochemistry II
 - Assignments
-    -  Read W&B 4:82-86
+    -  Read [W&B](https://2e.mindsmachine.com/) 4:82-86
 
 ### Fri, Sep 29
 
 - Hormones and the brain
 - Assignments
-    - Read W&B 8:208-226
+    - Read [W&B](https://2e.mindsmachine.com/) 8:208-226
 
 ---
 
@@ -188,20 +190,20 @@ title: "Schedule"
 
 - Psychopathology I: Schizophrenia.
 - Assignments
-    - Read W&B 12:338-352.
+    - Read [W&B](https://2e.mindsmachine.com/) 12:338-352.
 
 ### Wed, Oct 18
 
 - Psychopathology II: Bipolar disorder.
 - Assignments
-    - Read W&B 12:358-359.
+    - Read [W&B](https://2e.mindsmachine.com/) 12:358-359.
 
 ### Fri, March 20
 
 - Topic
     - Psychopathology III: Depression.
 - Assignments
-    - Read W&B 12:352-358.
+    - Read [W&B](https://2e.mindsmachine.com/) 12:352-358.
 
 ---
 
@@ -212,7 +214,7 @@ title: "Schedule"
 - Topic
     - Emotion, Happiness, Reward
 - Assignments
-    - Read W&B 11:310-336
+    - Read [W&B](https://2e.mindsmachine.com/) 11:310-336
 
 ### Wed, Oct 25
 
@@ -231,13 +233,13 @@ title: "Schedule"
 
 - Sensory systems
 - Assignments
-    - Read W&B 5:110-121
+    - Read [W&B](https://2e.mindsmachine.com/) 5:110-121
 
 ### Wed, Nov 1
 
 - Somatosensation
 - Assignments
-    - Read W&B 5:121-126; 6:162-164
+    - Read [W&B](https://2e.mindsmachine.com/) 5:121-126; 6:162-164
 
 ### Fri, Nov 3
 
@@ -253,7 +255,7 @@ title: "Schedule"
 
 - Action
 - Assignments
-    - Read W&B 5:126-143
+    - Read [W&B](https://2e.mindsmachine.com/) 5:126-143
 
 ### Wed, Nov 8
 
@@ -272,19 +274,19 @@ title: "Schedule"
 
 - Audition
 - Assignments
-  - Read W&B 6:144-162
+  - Read [W&B](https://2e.mindsmachine.com/) 6:144-162
 
 ### Wed, Nov 15
 
 - Vision I
 - Assignments
-    - Read W&B 7:174-185.
+    - Read [W&B](https://2e.mindsmachine.com/) 7:174-185.
 
 ### Fri, Nov 17
 
 - Vision II.
 - Assignments
-    - Read W&B 7:185-207.
+    - Read [W&B](https://2e.mindsmachine.com/) 7:185-207.
 
 ---
 
