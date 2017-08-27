@@ -45,6 +45,8 @@ title: "Schedule"
 - Assignments
     - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-08-28-functional-methods.html) |
 
 ### Wed, Aug 30
 
