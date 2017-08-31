@@ -358,27 +358,31 @@ PET can be used to compare changes in brain metabolism at baseline, across tasks
 </a>
 </div>
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KDjWdtDyz5I" frameborder="0" allowfullscreen></iframe>
+
+<div class="notes">
+Effects of DBS for Parkinson's.
+</div>
+
 ## ￼Simulating the brain
 
 - Computer/mathematical models of brain function
 - Example: neural networks
 - Cheap, noninvasive, can be stimulated or “lesioned”
 
-<!-- Cut
-
-## Growing a brain
+---
 
 <div class="centered">
-<http://www.kurzweilai.net/most-complete-functioning-human-brain-model-to-date-according-to-researchers>
-
-<img src="http://www.kurzweilai.net/images/organoid-derivation-development.jpg" width="700px"/>
-
-<http://www.kurzweilai.net/images/organoid-derivation-development.jpg>
+<img src="http://cs231n.github.io/assets/cnn/convnet.jpeg" height=500px>
 </div>
 
---->
+<div class="notes">
+Convolutional neural network.
+</div>
 
-## Spatial and Temporal Resolution {.smaller}
+## Spatial and Temporal Resolution
 
 <div class="centered">
 <a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">

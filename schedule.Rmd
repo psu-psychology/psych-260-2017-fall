@@ -60,6 +60,7 @@ title: "Schedule"
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/): 2:30-43.
 - Lecture notes
+    - Lecture notes. | [HTML slides](lectures/260-2017-09-01-anatomy-I.html) |
 
 ---
 
