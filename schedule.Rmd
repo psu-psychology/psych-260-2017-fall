@@ -77,7 +77,7 @@ title: "Schedule"
     - Read [W&B](https://2e.mindsmachine.com/): 2:30-43.
     - Read [W&B](https://2e.mindsmachine.com/): 2:20-29.
 - Lecture notes
-    - Lecture notes. | [HTML slides](lectures/260-2017-09-01-anatomy-II.html) |
+    - Lecture notes. | [HTML slides](lectures/260-2017-09-06-anatomy-II.html) |
 
 ### Fri, Sep 8
 

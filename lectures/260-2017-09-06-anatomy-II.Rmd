@@ -13,6 +13,11 @@ output:
     latex_engine: xelatex
 ---
 
+## Announcements
+
+- Quiz 1 on Friday
+- Possible change of venue for Monday, 9/11.
+
 ## Today's topics
 
 - Neuroanatomy
