@@ -81,7 +81,7 @@ title: "Schedule"
 
 ### Fri, Sep 8
 
-- **Quiz 1**.
+- **Quiz 1**. | [Answer key](quiz/psych-260-quiz-1-answers.pdf) | 
 - Neuroanatomy III
 - Neuroanatomy Lab
 
