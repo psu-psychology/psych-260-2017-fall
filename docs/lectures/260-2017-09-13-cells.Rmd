@@ -34,8 +34,48 @@ output:
 - Old "lore": ~100 billion neurons
 - New estimate [@azevedo2009equal]
     + ~86 +/- 8 billion neurons
-    + 85 +/- 9 billion glia
+    + ~85 +/- 9 billion glia
 - 100-500 trillion synapses, 1 billion/mm^3
+
+## How many neurons and glia? {.bigger}
+
+*"These findings challenge the common view that humans stand out from other primates in their brain composition and indicate that, with regard to numbers of neuronal and nonneuronal cells, the human brain is an isometrically scaled-up primate brain."*
+
+[[@azevedo2009equal]](http://doi.org/10.1002/cne.21974)
+    
+---
+
+```{r}
+# data from Azevedo
+mass_g <- c(1232.93, 154.02, 117.66)
+portion <- c("cerebral ctx", "cerebellum", "rest")
+b_neurons <- c(16.34, 69.03, 0.69)
+b_nonneurons <- c(60.84, 16.04, 7.73)
+brain <- data.frame(portion, mass_g, b_neurons, b_nonneurons)
+
+library(tidyverse)
+brain %>% ggplot() +
+  aes(x=mass_g, b_neurons, color=portion) +
+  geom_point() +
+  xlab("Mass in g") +
+  ylab("Billions of cells")
+```
+
+---
+
+```{r}
+brain %>% ggplot() +
+  aes(x=mass_g, b_nonneurons, color=portion) +
+  geom_point() +
+  xlab("Mass in g") +
+  ylab("Billions of cells")
+```
+
+## The Human Advantage
+
+<div class="centered">
+<img src="https://mitpress.mit.edu/sites/default/files/9780262533539.jpg" height=500px>
+</div>
 
 ## Glia (neuroglia)
 
