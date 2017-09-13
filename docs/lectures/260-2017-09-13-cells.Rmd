@@ -299,6 +299,8 @@ Microglia in red invading dentate gyrus.
 </a>
 </div>
 
+<!-- Start here next time -->
+
 ## Neural communication
 
 - Electrical
