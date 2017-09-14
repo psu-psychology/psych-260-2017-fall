@@ -303,91 +303,89 @@ Microglia in red invading dentate gyrus.
 </a>
 </div>
 
-<!-- Start here next time -->
+<!-- ## Neural communication -->
 
-## Neural communication
+<!-- - Electrical -->
+<!--     + Fast(er) -->
+<!--     + Within neurons -->
+<!-- - Chemical -->
+<!--     + Slow(er) -->
+<!--     + Between neurons -->
 
-- Electrical
-    + Fast(er)
-    + Within neurons
-- Chemical
-    + Slow(er)
-    + Between neurons
-    
-## How are messages generated?
+<!-- ## How are messages generated? -->
 
-- Electrical potential (== voltage)
-    + Think of potential energy
-    + Voltage ~ pressure
-    + Energy that will be released if something changes
-    
-## Potential energy
+<!-- - Electrical potential (== voltage) -->
+<!--     + Think of potential energy -->
+<!--     + Voltage ~ pressure -->
+<!--     + Energy that will be released if something changes -->
 
-<div class="centered">
-<a href="http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png">
-<img src="http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png">
-</a>
-</div>
+<!-- ## Potential energy -->
 
-## Types of neural electrical potentials
+<!-- <div class="centered"> -->
+<!-- <a href="http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png"> -->
+<!-- <img src="http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png"> -->
+<!-- </a> -->
+<!-- </div> -->
 
-- [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
-- [Action potential](https://en.wikipedia.org/wiki/Action_potential)
+<!-- ## Types of neural electrical potentials -->
 
-## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+<!-- - [Resting potential](https://en.wikipedia.org/wiki/Resting_potential) -->
+<!-- - [Action potential](https://en.wikipedia.org/wiki/Action_potential) -->
 
-- Measurement
-    + Electrode on inside
-    + Electrode on outside
-    + Inside - Outside = potential
-    
-## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+<!-- ## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential) -->
 
-<div class="centered">
-<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg">
-<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg">
-</a>
-</div>
+<!-- - Measurement -->
+<!--     + Electrode on inside -->
+<!--     + Electrode on outside -->
+<!--     + Inside - Outside = potential -->
 
-## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+<!-- ## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential) -->
 
-- Neuron (and other cells) have *potential energy*
-    + Inside neuron is -60-70 mV, with respect to outside
-    + About 1/20th typical AAA battery
-- Like charges repel, opposites attract, so
-    + Positively charged particles pulled in
-    + Negatively charged particles pushed out
-    
-## Where does the resting potential come from?
+<!-- <div class="centered"> -->
+<!-- <a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg"> -->
+<!-- <img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg"> -->
+<!-- </a> -->
+<!-- </div> -->
 
-- Ions
-- Ion channels
-- Separation between charges
-- A balance of forces
+<!-- ## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential) -->
 
-## We are the champIONs, my friend
+<!-- - Neuron (and other cells) have *potential energy* -->
+<!--     + Inside neuron is -60-70 mV, with respect to outside -->
+<!--     + About 1/20th typical AAA battery -->
+<!-- - Like charges repel, opposites attract, so -->
+<!--     + Positively charged particles pulled in -->
+<!--     + Negatively charged particles pushed out -->
 
-- Potassium, K+
-- Sodium, Na+
-- Chloride, Cl-
-- Organic anions, A-
+<!-- ## Where does the resting potential come from? -->
 
-## Party On
+<!-- - Ions -->
+<!-- - Ion channels -->
+<!-- - Separation between charges -->
+<!-- - A balance of forces -->
 
-- Annie (A-) was having a party.
-    + Used to date Nate (Na+), but now sees Karl (K+)
-- Hired bouncers called
-    + "The Channels"
-    + Let Karl and friends in or out, keep Nate out
-- Annie's friends (A-) and Karl's (K+) mostly inside
-- Nate and friends (Na+) mostly outside
-- Claudia (Cl-) tagging along
+<!-- ## We are the champIONs, my friend -->
 
-## Party On
+<!-- - Potassium, K+ -->
+<!-- - Sodium, Na+ -->
+<!-- - Chloride, Cl- -->
+<!-- - Organic anions, A- -->
 
-<div class="centered">
-<img src="img/350px-Membrane_potential_ions_en.svg.png" height=450px>
-</div>
+<!-- ## Party On -->
+
+<!-- - Annie (A-) was having a party. -->
+<!--     + Used to date Nate (Na+), but now sees Karl (K+) -->
+<!-- - Hired bouncers called -->
+<!--     + "The Channels" -->
+<!--     + Let Karl and friends in or out, keep Nate out -->
+<!-- - Annie's friends (A-) and Karl's (K+) mostly inside -->
+<!-- - Nate and friends (Na+) mostly outside -->
+<!-- - Claudia (Cl-) tagging along -->
+
+<!-- ## Party On -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="img/350px-Membrane_potential_ions_en.svg.png" height=450px> -->
+<!-- </div> -->
 
 ## Next time
 

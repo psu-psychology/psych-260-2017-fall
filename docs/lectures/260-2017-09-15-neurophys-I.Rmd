@@ -1,0 +1,417 @@
+---
+title: "260-2017-09-15-neurophys-I"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Measuring potentials in actual neurons
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/k48jXzFGMc8" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- **Announcement**: Exam 1 next Friday
+- Why brains?
+- The neuron at rest
+
+## Which type of glial cell produces myelin for neurons in the CNS?
+
+- A. Astrocytes
+- B. Oligodendrocytes
+- C. Schwann cells
+- D. Microglia
+
+## Which type of glial cell produces myelin for neurons in the CNS?
+
+- A. Astrocytes
+- **B. Oligodendrocytes**
+- C. Schwann cells
+- D. Microglia
+
+## How many neurons are there in the human brain?
+
+- A. 100 million
+- B. 100 billion
+- C. ~86 billion
+- D. ~86 million
+
+## How many neurons are there in the human brain?
+
+- A. 100 million
+- B. 100 billion
+- C. **~86 billion**
+- D. ~86 million
+
+## What part of the neuron receives the majority of input from other neurons?
+
+- A. The axon
+- B. The terminal button
+- C. The soma
+- D. The dendrites
+
+## What part of the neuron receives the majority of input from other neurons?
+
+- A. The axon
+- B. The terminal button
+- C. The soma
+- **D. The dendrites**
+
+## Why brains?
+
+- [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
+- [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
+- [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
+
+[Sterling & Laughlin, 2015](https://mitpress.mit.edu/neuraldesign%20)
+
+## [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
+
+- Tiny, single-celled bacterium
+- Feeds on glucose
+- Chemo ("taste") receptors on surface membrane
+- Flagellum for movement
+- Food concentration regulates duration of "move" phase
+- ~4 ms for chemical signal to diffuse from anterior/posterior
+
+---
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QGAm6hMysTA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
+
+- 300K larger than E. Coli
+- Propulsion through coordinated beating of cilia
+- Diffusion from head to tail ~40 s!
+- Use electrical signaling instead
+    - Na+ channel opens (e.g., when stretched)
+    - Voltage-gated Ca++ channels open, Ca++ enters, triggers cilia
+    - Signal across cell within ms
+    
+## [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
+
+- ~10x larger than paramecium
+- 302 neurons + 56 glial cells (out of 959)
+- Swim, forage, mate
+
+---
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgZHziFWR7M?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="notes">
+C Elegans swimming.
+</div>
+
+## Why brains?
+
+## Why brains?
+
+- For neurons
+- Bigger bodies
+- Live longer
+- Do more, do it faster
+
+## Neural communication
+
+- Electrical
+    + Fast(er)
+    + Within neurons
+- Chemical
+    + Slow(er)
+    + Between neurons
+    
+## How are messages generated?
+
+- Electrical potential (== voltage)
+    + Think of potential energy
+    + Voltage ~ pressure
+    + Energy that will be released if something changes
+    
+## Potential energy
+
+<div class="centered">
+<a href="http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png">
+<img src="http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png">
+</a>
+</div>
+
+## Types of neural electrical potentials
+
+- [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+- [Action potential](https://en.wikipedia.org/wiki/Action_potential)
+
+## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+
+- Measurement
+    + Electrode on inside
+    + Electrode on outside
+    + Inside - Outside = potential
+
+## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+
+<div class="centered">
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg">
+</a>
+</div>
+
+----
+
+<div class="centered">
+<img src="img/350px-Membrane_potential_ions_en.svg.png" height=450px>
+</div>
+
+## Resting potential arises from
+
+- A balance of forces
+    + Force of diffusion
+    + Electrostatic force
+- Forces cause ion flows across membrane
+- Ion channels allow ion flow
+
+## Ion channels
+
+- Openings in neural membrane
+- Selective
+- Vary in permeability
+- Types
+    + Passive/leak
+    + Voltage-gated
+    + Ligand-gated (chemically-gated)
+    + Transporters/pumps
+    
+## Ion channels
+
+<div class="centered">
+<a href="http://www.zoology.ubc.ca/~gardner/F21-08.GIF">
+<img src="http://www.zoology.ubc.ca/~gardner/F21-08.GIF" width=800px>
+</a>
+</div>
+
+## Neuron at rest permeable to K+
+
+- Passive K+ channels open
+- [K+] concentration inside >> outside
+- K+ flows out
+
+## Force of diffusion
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png" height=450px>
+</a>
+</div>
+
+## Force of diffusion
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg" width=700px>
+</a>
+</div>
+
+## Neuron at rest permeable to K+
+
+- Organic anions (A-) to large to move outside of cell
+- A- and K+ largely in balance == no net internal charge
+- K+ outflow creates charge separation: K+ <-> A-
+- Charge separation creates a voltage
+- Outside +/inside -
+- Voltage build-up stops outflow of K+
+
+## The resting potential
+
+<div class="centered">
+<img src="img/350px-Membrane_potential_ions_en.svg.png" height=450px>
+</div>
+
+## Balance of forces in the neuron at rest
+
+- **Force of diffusion**
+    + K+ moves from high concentration (inside) to low (outside)
+    
+## Balance of forces in the neuron at rest
+
+- **Electrostatic force**
+    + Voltage build-up stops K+ outflow
+    + Specific voltage called *equilibrium potential* for K+
+    + K+ positive, so equilibrium potential negative (w/ respect to outside)
+    + Equilibrium potential close to neuron resting potential
+
+## Equilibrium potential and Nernst equation
+
+<div class="centered">
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=700px>
+</a>
+</div>
+
+## Building on intuition
+
+<div class="centered">
+<a href="http://www.daily-player.com/images/articles/finger-in-the-dyke.jpg">
+<img src="http://www.daily-player.com/images/articles/finger-in-the-dyke.jpg">
+</a>
+</div>
+
+## [Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
+
+| Ion | [inside]  | [outside]    | Voltage    |
+|-----|-----------|--------------|------------|
+| K+  | ~150 mM   | ~4 mM        | ~ -90 mV    |
+| Na+ | ~10 mM    | ~140 mM      | ~ +55-60 mV |
+| Cl- | ~10 mM    | ~110 mM      | - 65-80 mV  |
+
+<div class="centered">
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=400px>
+</a>
+</div>
+
+## Resting potential ≠ K+ [equilibrium potential](https://courses.washington.edu/conj/membpot/equilpot.htm)
+
+- Resting potential not just due to K+
+- Other ions flow
+- Resting potential == net effects of all ion flows across membrane
+
+## Goldman-Hodgkin-Katz equation
+
+<div class="centered">
+<a href="http://www.physiologyweb.com/calculators/figs/ghk_equation.gif">
+<img src="http://www.physiologyweb.com/calculators/figs/ghk_equation.gif">
+</a>
+</div>
+
+## Na+ role
+
+- Na+ concentrated **outside** neuron
+- Membrane at rest not very permeable to Na+
+- Some, but not much Na+ flows *in*
+- Na+ has equilibrium potential ~ + 60 mV
+- Equilibrium potential is positive (with respect to outside)
+- Would need positive interior to keep Na+ from flowing in
+
+----
+
+<div class="centered">
+<img src="img/350px-Membrane_potential_ions_en.svg.png" height=450px>
+</div>
+
+## Electrical circuit model
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg">
+</a>
+</div>
+
+## Summary of forces
+
+| Ion | Concentration gradient | Electrostatic force | Permeability |
+|-----|------------------------|---------------------|--------------|
+| K+  | Inside >> Outside      | - (pulls K+ **in**)     | Higher       |
+| Na+ | Outside >> Inside      | - (pulls Na+ **in**)    | Lower        |
+
+## Party On
+
+- Annie (A-) was having a party.
+    + Used to date Nate (Na+), but now sees Karl (K+)
+- Hired bouncers called
+    + "The Channels"
+    + Let Karl and friends in or out, keep Nate out
+- Annie's friends (A-) and Karl's (K+) mostly inside
+- Nate and friends (Na+) mostly outside
+- Claudia (Cl-) tagging along
+
+## What happens if something changes?
+
+- Easier for Karl [K+] to exit?
+- Easier for Nate [Na+] to enter?
+- Some action!
+
+<!-- ## Action potential -->
+
+<!-- <div class="centered"> -->
+<!-- <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png" height=450px> -->
+<!-- </a> -->
+<!-- </div> -->
+
+<!-- ## Action potential -->
+
+<!-- - Threshold of excitation -->
+<!-- - Increase (rising phase/depolarization) -->
+<!-- - Peak -->
+<!--     + at positive voltage -->
+<!-- - Decline (falling phase/repolarization) -->
+<!-- - Return to resting potential (refractory period) -->
+
+<!-- ## Action potential break-down -->
+
+<!-- | Phase             | Neuron State | -->
+<!-- |-------------------|--------------| -->
+<!-- | Rise to threshold | + input makes membrane potential more + | -->
+<!-- | Rising phase      | Voltage-gated Na+ channels open, Na+ enters | -->
+<!-- | Peak              | Voltage-gated Na+ channels close and deactivate; voltage-gated K+ channels open | -->
+<!-- | Falling phase     | K+ exits | -->
+<!-- | Refractory period | Na+/K+ pump restores [Na+], [K+]; voltage-gated K+ channels close | -->
+
+<!-- ## What's a [Na+/K+ pump](https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase)? -->
+
+<!-- - Enzyme (*Na+/K+ ATP-ase*) embedded in neuron membrane -->
+<!-- - Pumps Na+ and K+ *against* concentration gradients -->
+<!-- - Na+ out; K+ in -->
+<!-- - Uses [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate) or chemical energy -->
+
+<!-- ## Example in another domain -->
+
+<!-- <div class="centered"> -->
+<!-- <a href="http://media-2.web.britannica.com/eb-media/75/103875-004-5F8D1D0E.jpg"> -->
+<!-- <img src="http://media-2.web.britannica.com/eb-media/75/103875-004-5F8D1D0E.jpg" height=500px> -->
+<!-- </a> -->
+<!-- </div> -->
+
+<!-- ## Refractory periods -->
+
+<!-- - *Absolute* -->
+<!--     + Cannot generate action potential (AP) no matter the size of the stimulus -->
+<!--     + Voltage-gated Na+ channels inactivated, reactivate in time. -->
+<!-- - *Relative* -->
+<!--     + Can generate AP with larg(er) stimulus -->
+<!--     + Some voltage-gated K+ channels still open -->
+<!-- - Refractory periods put 'spaces' between APs -->
+
+<!-- ## Generating APs -->
+
+<!-- - *Axon hillock* -->
+<!--     + Portion of soma adjacent to axon -->
+<!--     + Integrates/sums input to soma -->
+<!-- - *Axon initial segment* -->
+<!--     + Umyelinated portion of axon adjacent to soma -->
+<!--     + Voltage-gated Na+ and K+ channels exposed -->
+<!--     + If sum of input to soma > threshold, voltage-gated Na+ channels open -->
+
+<!-- ## Axon hillock, axon initial segment -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png" height=450px> -->
+
+<!-- <a href="https://commons.wikimedia.org/wiki/File:Axon_Hillock.png#/media/File:Axon_Hillock.png">Axon Hillock</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:M.aljar3i&amp;action=edit&amp;redlink=1" class="new" title="User:M.aljar3i (page does not exist)">M.aljar3i</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a> -->
+<!-- </div> -->
+    
+## Next time
+
+- The action potential
+- How action potentials propagate

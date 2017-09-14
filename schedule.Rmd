@@ -110,7 +110,9 @@ title: "Schedule"
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 3:55-59.
     - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
-    
+ - Lecture notes
+    - Lecture notes. | [HTML slides](lectures/260-2017-09-15-neurophys-I.html) |
+   
 ---
 
 ## Week 5, September 18 - 22
