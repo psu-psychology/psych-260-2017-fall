@@ -122,6 +122,8 @@ title: "Schedule"
 - Neurophysiology III
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 3:59-69
+ - Lecture notes
+    - Lecture notes. | [HTML slides](lectures/260-2017-09-18-neurophys-II.html) |
 
 ### Wed, Sep 20
 
