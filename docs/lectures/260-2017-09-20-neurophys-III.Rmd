@@ -1,0 +1,344 @@
+---
+title: "260-2017-09-20-neurophys-III"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Today's Topics
+
+- Another take on the resting and action potentials
+- Action potential propagation
+
+## The $K^+$ story
+
+- $Na^+$/$K^+$ pump pulls $K^+$ **in**
+- $[K^+]_{in}$ (~150 mM) >> $[K^+]_{out}$ (~4 mM)
+- Outward flow of $K^+$ through passive/leak channels
+- Outflow stops when *membrane potential*, $V_m$ = *equilibrium potential* for $K^+$
+    
+## Equilibrium potential
+
+- Voltage ($V_{K^+}$) that keeps system in equilibrium
+    - $[K^+]_{in}$ >> $[K^+]_{out}$
+- Nernst equation
+    - $V_{K^+}$ = $\frac{RT}{(+1)F}ln(\frac{[K^+]_{out}}{[K^+]_{in}})$
+    - $V_{K^+}$ = ~ -90 mV
+    - Negative in/positive out keeps in/out concentration gradient
+
+## Equilibrium potential
+
+- $K^+$ flows out through passive/leak channels; most remains near membrane
+- Separation from $A^-$ creates charge $\frac{K+K+K+K+K+}{A-A-A-A-A-}$ along capacitor-like membrane
+- $V_m$ --> $V_{K^+}$
+
+## [Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
+
+| Ion | [inside]  | [outside]    | Voltage     |
+|-----|-----------|--------------|-------------|
+| K+  | ~150 mM   | ~4 mM        | ~ -90 mV    |
+| Na+ | ~10 mM    | ~140 mM      | ~ +55-60 mV |
+| Cl- | ~10 mM    | ~110 mM      | ~ - 65-80 mV  |
+
+<div class="centered">
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=400px>
+</a>
+</div>
+
+## The $Na^+$ story
+
+- $Na^+$/$K^+$ pump pushes $Na^+$ **out**
+- $[Na^+]_{in}$ (~10 mM) << $[K^+]_{out}$ (~140 mM)
+- Equilibrium potential for $Na^+$, $V_{Na^+}$ = ~ +55 mV
+    - Inside positive/outside negative to maintain outside > inside concentration gradient 
+- If $Na^+$ alone, $V_m$ --> $V_{Na^+}$ (~ +55 mV)
+
+## Resting potential
+
+- Sum of outward $K^+$ and inward $Na^+$
+    - Membrane more permeable to $K^+$ than $Na^+$, $p_{K+}> p_{Na^+}$ 
+    - Outward flow of $K^+$ > inward flow of $Na^+$ 
+    - Resting potential (~-70 mV) closer to $Ve_{K^+}$ (-90 mV) than $Ve_{Na^+}$ (+55 mV)
+- Goldman-Hodgkin-Katz equation
+    - $V_m = \frac{RT}{F}ln(\frac{p_{K^+}[K^+]_{out}+p_{Na^+}[Na^+]_{out}}{p_{K^+}[K^+]_{in}+p_{Na^+}[Na^+]_{in}})$
+
+## "Driving force" and equilibrium potential
+
+- "Driving Force" on a given ion depends on difference between
+    - Equilibrium potential for given ion
+    - Membrane potential = effects of all ions
+- Anthropomorphic metaphor
+    - $K^+$ "wants" to flow out (hyperpolarize neuron)
+    - $Na^+$ "wants" to flow in (depolarize neuron)
+    - Strength of that "desire" depends on distance from equilibrium potential
+
+## Action potentials and driving forces
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png" height=450px>
+</a>
+</div>
+
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+## Neuron at rest
+
+- Driving force on $K^+$ weakly out
+    - -70 mV - (-90 mV) = +20 mV
+- Driving force on $Na^+$ strongly in
+    - -70 mV - (+55 mV) = -125 mV
+- $Na^+$/$K^+$ pump maintains concentrations
+
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+## Action potential rising phase
+
+- Voltage-gated $Na^+$ channels open
+- Membrane permeability to $Na^+$ increases
+    - $Na^+$ inflow through passive + voltage-gated channels
+    - continued $K^+$ outflow through passive channels
+    
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+## Peak
+
+- Membrane permeability to $Na^+$ reverts to resting state
+    - Voltage-gated $Na^+$ channels close & inactivate
+    - Slow inflow due to small driving force (+30 mV - 55mV = -25 mv)
+
+## Peak
+
+- Membrane permeability to $K^+$ increases
+    - Voltage-gated $K^+$ channels open
+    - Fast outflow due to strong driving force (+30 mv - (-90 mv) = +120 mV)
+
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+## Falling phase
+
+- $K^+$ outflow
+    - Through voltage-gated $K^+$ and passive $K^+$ channels
+- $Na^+$ inflow
+    - Through passive channels only
+    
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+## Absolute refractory phase
+
+- Cannot generate action potential (AP) no matter the size of the stimulus
+- Membrane potential more negative (-90 mV) than at rest (-70 mV)
+- Voltage-gated $Na^+$ channels still inactivated
+    - Driving force on $Na^2$ high (-90 mv - 55 mV = -145 mV), but too bad
+- Voltage-gated $K^+$ channels closing
+    - Driving force on $K^+$ tiny or absent
+- $Na^2$/$K^2$ pump restoring concentration balance
+
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+## Relative refractory period
+
+- Can generate AP with larg(er) stimulus
+- Some voltage-gated $Na^+$ 'de-inactivate', can open if
+    - Larger input
+    - Membrane potential is more negative than resting potential
+
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+## Neuron at rest
+
+- Voltage-gated $Na^+$ closed, but ready to open
+- Voltage-gated $K^+$ channels closed, but ready to open
+- Membrane potential at rest
+- $Na^2$/$K^2$ pump still working...
+
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+----
+
+| Phase | Ion | Driving force | Flow direction | Flow magnitude |
+|-------|-----|---------------|----------------|----------------|
+| Rest  | K+  | 20 mV         | out            | small          |
+|       | Na+ | 125 mV        | in             | small          |
+
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+---
+
+| Phase | Ion | Driving force | Flow direction | Flow magnitude |
+|-------|-----|---------------|----------------|----------------|
+| Rising| K+  | growing       | out            | growing        |
+|       | Na+ | shrinking     | in             | high           |
+
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+---
+
+| Phase | Ion | Driving force | Flow direction | Flow magnitude |
+|-------|-----|---------------|----------------|----------------|
+| Peak  | K+  | 120 mV        | out            | high           |
+|       | Na+ | 20 mV         | out            | small          |
+
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+---
+
+| Phase | Ion | Driving force | Flow direction | Flow magnitude |
+|-------|-----|---------------|----------------|----------------|
+| Falling | K | shrinking     | out            | high           |
+|       | Na+ | growing       | in             | small          |
+
+---
+
+<div class="centered">
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
+</div>
+
+---
+
+| Phase | Ion | Driving force | Flow direction | Flow magnitude |
+|-------|-----|---------------|----------------|----------------|
+| Refractory | K | ~0 mV      | out            | small          |
+|       | Na+ | 145 mV        | in             | small          |
+
+## Animation
+
+<div class="centered">
+<https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html>
+</div>
+
+## Generating APs
+
+- *Axon hillock*
+    + Portion of soma adjacent to axon
+    + Integrates/sums input to soma
+- *Axon initial segment*
+    + Umyelinated portion of axon adjacent to soma
+    + Voltage-gated Na+ and K+ channels exposed
+    + If sum of input to soma > threshold, voltage-gated Na+ channels open
+    
+## Axon hillock, axon initial segment
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png" height=450px>
+
+<a href="https://commons.wikimedia.org/wiki/File:Axon_Hillock.png#/media/File:Axon_Hillock.png">Axon Hillock</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:M.aljar3i&amp;action=edit&amp;redlink=1" class="new" title="User:M.aljar3i (page does not exist)">M.aljar3i</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>
+</div>
+
+## AP propagation
+
+- Propagation
+    + move down axon, away from soma, toward axon terminals.
+- Unmyelinated axon
+    + Each segment "excites" the next
+    
+## AP propagation is like
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/H0K2dvB-7WY" frameborder="0" allowfullscreen></iframe>    
+
+## AP propagation
+
+- Myelinated axon
+    + AP "jumps" between Nodes of Ranvier, *saltatory conduction*
+    + Nodes of Ranvier == unmyelinated sections of axon
+    + voltage-gated Na+, K+ channels exposed
+    + Current flows through myelinated segments
+    
+## Question
+
+- Why does AP flow in one direction, away from soma?
+    + Soma does not have (many) voltage-gated Na+ channels.
+    + Soma is not myelinated.
+    + Refractory periods mean polarization only in one direction.
+    
+## Question
+
+- Why does AP flow in one direction, away from soma?
+    + **Soma does not have (many) voltage-gated Na+ channels.**
+    + Soma is not myelinated.
+    + **Refractory periods mean polarization only in one direction.**
+
+<!-- Scrolling final reference page -->
+<!-- http://stackoverflow.com/q/38260799 -->
+<style>
+slides > slide { overflow: scroll; }
+slides > slide:not(.nobackground):before {
+  background: none;
+  }
+slides > slide:not(.nobackground):after {
+  content: '';
+  background: none;
+  }
+}
+</style>
+
+## Conduction velocities
+
+<iframe width="600" height="450" src="https://en.wikipedia.org/wiki/Nerve_conduction_velocity" frameborder="0" allowfullscreen></iframe>
+
+## Information processing
+
+- AP amplitudes don't vary (much)
+    + All or none
+    + $Na^+$/$K^+$ pumps working all the time
+    + $[K^+]$ & $[Na^+]$ don't vary much, so
+    + $V_{K^+}$ & $V_{Na^+}$ don't vary much
+- AP frequency and timing vary
+    + Rate vs. timing codes
+
+## Next time…
+
+-   Exam 1

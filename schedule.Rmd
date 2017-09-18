@@ -97,7 +97,6 @@ title: "Schedule"
 ### Wed, Sep 13
 
 - Cells of the nervous system
-- Neurophysiology I
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/): 2:20-29.
     - Read [W&B](https://2e.mindsmachine.com/) 3:50-55.
@@ -106,7 +105,7 @@ title: "Schedule"
 
 ### Fri, Sep 15
 
-- Neurophysiology II
+- Neurophysiology I
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 3:55-59.
     - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
@@ -119,7 +118,7 @@ title: "Schedule"
 
 ### Mon, Sep 18
 
-- Neurophysiology III
+- Neurophysiology II
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 3:59-69
  - Materials
@@ -127,10 +126,11 @@ title: "Schedule"
 
 ### Wed, Sep 20
 
-- Neurophysiology IV
+- Neurophysiology III
 - Exam 1 review
 - Materials
-    - Lecture notes. | [HTML slides](lectures/260-2017-09-20-exam-1-review.html) |
+    - Lecture notes. | [HTML slides](lectures/260-2017-09-20-neurophys-III.html) |
+    - Study guide. | [HTML slides](lectures/260-2017-09-20-exam-1-review.html) |
 
 ### Fri, Sep 22
 <!-- Rosh Hashana Day 2 -->
