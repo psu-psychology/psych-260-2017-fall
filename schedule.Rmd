@@ -14,7 +14,7 @@ title: "Schedule"
     - Read [W&B](https://2e.mindsmachine.com/) 1:2-19.
     - Review <https://en.wikipedia.org/wiki/Systems_theory>
 - Materials
-    - Lecture notes. | [HTML slides](lectures/260-2017-08-21.html) |
+    - | [HTML slides](lectures/260-2017-08-21.html) |
 
 ### Wed, Aug 23
 
@@ -59,7 +59,7 @@ title: "Schedule"
 - Neuroanatomy I
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/): 2:30-43.
-- Lecture notes
+- Materials
     - Lecture notes. | [HTML slides](lectures/260-2017-09-01-anatomy-I.html) |
 
 ---
@@ -76,7 +76,7 @@ title: "Schedule"
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/): 2:30-43.
     - Read [W&B](https://2e.mindsmachine.com/): 2:20-29.
-- Lecture notes
+- Materials 
     - Lecture notes. | [HTML slides](lectures/260-2017-09-06-anatomy-II.html) |
 
 ### Fri, Sep 8
@@ -101,16 +101,16 @@ title: "Schedule"
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/): 2:20-29.
     - Read [W&B](https://2e.mindsmachine.com/) 3:50-55.
-- Lecture notes
+- Materials
     - Lecture notes. | [HTML slides](lectures/260-2017-09-13-cells.html) |
 
 ### Fri, Sep 15
 
-- Neurophysiology II.
+- Neurophysiology II
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 3:55-59.
     - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
- - Lecture notes
+ - Materials
     - Lecture notes. | [HTML slides](lectures/260-2017-09-15-neurophys-I.html) |
    
 ---
@@ -122,13 +122,15 @@ title: "Schedule"
 - Neurophysiology III
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 3:59-69
- - Lecture notes
+ - Materials
     - Lecture notes. | [HTML slides](lectures/260-2017-09-18-neurophys-II.html) |
 
 ### Wed, Sep 20
 
 - Neurophysiology IV
 - Exam 1 review
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-09-20-exam-1-review.html) |
 
 ### Fri, Sep 22
 <!-- Rosh Hashana Day 2 -->

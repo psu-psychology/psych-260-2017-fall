@@ -1,0 +1,50 @@
+---
+title: "260-2017-09-20-exam-1-review"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## History
+
+- People
+    - Aristotle, Galen, Vesalius, da Vinci, Descartes
+- Ideas
+    - "Ventricular" theories, bodily humours, dualism, trephining
+    
+## Methods
+
+- Spatial & temporal resolution
+- Structural vs. functional
+- Invasive vs. non-invasive
+- MRI (structural, DTI, fMRI)
+- EEG, MEG & ERP
+- Stimulation (chemical, electrical, magnetic, optical)
+
+## Neuroanatomy
+
+- Directions & slices
+- Brain vs. spinal cord
+- Hindbrain, midbrain, forebrain & ventricular landmarks
+- Lobes of the cerebral cortex & functions
+- Fissures & sulci
+
+## Neuroanatomy
+
+- CNS vs. PNS
+- Autonomic vs. somatic
+- Sympathetic vs. parasympathetic
+
+## Cellular neuroscience
+
+- Neuronal anatomy
+- Resting potential -- what & why
+- Action potential and propagation -- how & why

@@ -1,5 +1,5 @@
 ---
-title: "260-2017-08-21"
+title: "260-2017-08-21-course-intro"
 author: "Rick O. Gilmore"
 date: "`r Sys.time()`"
 output:
