@@ -1,5 +1,5 @@
 ---
-title: "260-2017-09-18-neurophys-II"
+title: "260-2017-09-18-neurophys-III"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
 bibliography: bib/bibliography.bib
@@ -13,21 +13,12 @@ output:
     latex_engine: xelatex
 ---
 
-Ease on down, ease on down
---------------------------
+## Today's Topics
 
-**Propagation** is the way…
----------------------------
+- Action potential
+- Action potential propagation
 
-Today's Topics
---------------
-
--   Resting potential
--   Action potential
--   Neural propagation
-
-What is where
--------------
+## What is where
 
   --------------------------------------------------------------------------
   Ion            [inside]       [outside]      Equilibrium V  Diffusion
@@ -36,15 +27,13 @@ What is where
   \\(K\^+\\)                                                  
   --------------------------------------------------------------------------
 
-What is where
--------------
+## What is where
 
   Ion          [inside]   [outside]   Equilibrium V (+/-)   Diffusion
   ------------ ---------- ----------- --------------------- -----------
   \\(K\^+\\)   high       low         -                     outward
 
-What is where
--------------
+## What is where
 
   --------------------------------------------------------------------------
   Ion            [inside]       [outside]      Equilibrium V  Diffusion
@@ -55,274 +44,223 @@ What is where
   \\(Na\^+\\)                                                 
   --------------------------------------------------------------------------
 
-What is where
--------------
+## What is where
 
   Ion           [inside]   [outside]   Equilibrium V (+/-)   Diffusion
   ------------- ---------- ----------- --------------------- -----------
   \\(K\^+\\)    high       low         -                     outward
   \\(Na\^+\\)   low        high        +                     inward
 
-Why are \\([Na\^+]\_{out}\\) and \\([K\^+]\_{in}\\) high?
----------------------------------------------------------
+## Why are \\([Na\^+]\_{out}\\) and \\([K\^+]\_{in}\\) high?
 
-Why are \\([Na\^+]\_{out}\\) and \\([K\^+]\_{in}\\) high?
----------------------------------------------------------
+## Why are \\([Na\^+]\_{out}\\) and \\([K\^+]\_{in}\\) high?
 
 -   Cell expends metabolic energy to create concentration gradients
 
-The -60-80 mV *resting potential*
----------------------------------
+## The -60-80 mV *resting potential*
 
 -   A. Pulls \\(Na\^+\\) in
 -   B. Pushes large organic anions out
 
-A -60-80 mV *resting potential*
--------------------------------
+## The -60-80 mV *resting potential*
 
 -   **A. Pulls \\(Na\^+\\) in**
 -   B. Pushes large organic anions out
 
-Party On
---------
+## Party On
 
--   Annie (A-) was having a party.
-    -   Used to date Nate (\\(Na\^+\\)), but now sees Karl (\\(K\^+\\))
--   Hired bouncers called
-    -   "The Channels"
-    -   Let Karl and friends in or out, keep Nate out
--   Annie's friends (A-) and Karl's (\\(K\^+\\)) mostly inside
--   Nate and friends (\\(Na\^+\\)) mostly outside
--   Claudia (\\(Cl\^-\\)) tagging along
+- Annie (A-) was having a party.
+    + Used to date Nate (Na+), but now sees Karl (K+)
+- Hired bouncers called
+    + "The Channels"
+    + Let Karl and friends in or out, keep Nate out
+- Annie's friends (A-) and Karl's (K+) mostly inside
+- Nate and friends (Na+) mostly outside
+- Claudia (Cl-) tagging along
 
-What happens if something changes?
-----------------------------------
+## What happens if something changes?
 
--   Easier for Karl \\(K\^+\\) to exit?
--   Easier for Nate \\(Na\^+\\) to enter?
--   Some action!
+- Easier for Karl [K+] to exit?
+- Easier for Nate [Na+] to enter?
+- Some action!
 
-Action potential
-----------------
+## Action potential
 
 <div class="centered">
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png)
-
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png" height=450px>
+</a>
 </div>
+ 
+## Action potential
 
-Action potential
-----------------
+- Threshold of excitation
+- Increase (rising phase/depolarization)
+- Peak
+    + at positive voltage
+- Decline (falling phase/repolarization)
+- Return to resting potential (refractory period)
 
--   Threshold of excitation
--   Increase (rising phase/depolarization)
--   Peak
-    -   at positive voltage
--   Decline (falling phase/repolarization)
--   Return to resting potential (refractory period)
+## Action potential phases
 
-Action potential break-down
----------------------------
+| Phase             | Neuron State |
+|-------------------|--------------|
+| Rise to threshold | + input makes membrane potential more + |
+| Rising phase      | Voltage-gated Na+ channels open, Na+ enters |
+| Peak              | Voltage-gated Na+ channels close and deactivate; voltage-gated K+ channels open |
+| Falling phase     | K+ exits |
+| Refractory period | Na+/K+ pump restores [Na+], [K+]; voltage-gated K+ channels close |
 
-  ----------------------------------
-  Phase               Neuron State
-  ------------------- --------------
-  Rise to threshold   + input makes
-                      membrane
-                      potential
-                      more +
-
-  Rising phase        Voltage-gated
-                      \\(Na\^+\\)
-                      channels open,
-                      \\(Na\^+\\)
-                      enters
-
-  Peak                Voltage-gated
-                      \\(Na\^+\\)
-                      channels close
-                      and
-                      deactivate;
-                      voltage-gated
-                      \\(K\^+\\)
-                      channels open
-
-  Falling phase       \\(K\^+\\)
-                      exits
-
-  Refractory period   \\(Na\^+\\)/\\
-                      (K\^+\\)
-                      pump restores
-                      [\\(Na\^+\\)],
-                      [\\(K\^+\\)];
-                      voltage-gated
-                      \\(K\^+\\)
-                      channels close
-  ----------------------------------
-
-What's a [\\(Na\^+\\)/\\(K\^+\\) pump](https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase)?
-----------------------------------------------------------------------------------------
-
--   Enzyme (*\\(Na\^+\\)/\\(K\^+\\) ATP-ase*) embedded in neuron
-    membrane
--   Pumps \\(Na\^+\\) and \\(K\^+\\) *against* concentration gradients
--   \\(Na\^+\\) out; \\(K\^+\\) in
--   Uses [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate) or
-    chemical energy
-
-Example in another domain
--------------------------
+---
 
 <div class="centered">
-
-[![](http://media-2.web.britannica.com/eb-media/75/103875-004-5F8D1D0E.jpg)](http://media-2.web.britannica.com/eb-media/75/103875-004-5F8D1D0E.jpg)
-
+<img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
 </div>
 
-Refractory periods
-------------------
+<!-- ## What's a [Na+/K+ pump](https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase)? -->
 
--   *Absolute*
-    -   Cannot generate action potential (AP) no matter the size of the
-        stimulus
-    -   Voltage-gated \\(Na\^+\\) channels inactivated, reactivate in
-        time.
--   *Relative*
-    -   Can generate AP with larg(er) stimulus
-    -   Some voltage-gated \\(K\^+\\) channels still open
--   Refractory periods put 'spaces' between APs
+<!-- - Enzyme (*Na+/K+ ATP-ase*) embedded in neuron membrane -->
+<!-- - Pumps Na+ and K+ *against* concentration gradients -->
+<!-- - Na+ out; K+ in -->
+<!-- - Uses [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate) or chemical energy -->
 
-Generating APs
---------------
+<!-- ## Example in another domain -->
 
--   *Axon hillock*
-    -   Portion of soma adjacent to axon
-    -   Integrates/sums input to soma
--   *Axon initial segment*
-    -   Umyelinated portion of axon adjacent to soma
-    -   Voltage-gated \\(Na\^+\\) and \\(K\^+\\) channels exposed
-    -   If sum of input to soma \> threshold, voltage-gated \\(Na\^+\\)
-        channels open
+<!-- <div class="centered"> -->
+<!-- <a href="http://media-2.web.britannica.com/eb-media/75/103875-004-5F8D1D0E.jpg"> -->
+<!-- <img src="http://media-2.web.britannica.com/eb-media/75/103875-004-5F8D1D0E.jpg" height=500px> -->
+<!-- </a> -->
+<!-- </div> -->
 
-Axon hillock, axon initial segment
-----------------------------------
+## Refractory periods
+
+- *Absolute*
+    + Cannot generate action potential (AP) no matter the size of the stimulus
+    + Voltage-gated Na+ channels inactivated, reactivate in time.
+- *Relative*
+    + Can generate AP with larg(er) stimulus
+    + Some voltage-gated K+ channels still open
+- Refractory periods put 'spaces' between APs
+
+## Generating APs
+
+- *Axon hillock*
+    + Portion of soma adjacent to axon
+    + Integrates/sums input to soma
+- *Axon initial segment*
+    + Umyelinated portion of axon adjacent to soma
+    + Voltage-gated Na+ and K+ channels exposed
+    + If sum of input to soma > threshold, voltage-gated Na+ channels open
+    
+## Axon hillock, axon initial segment
 
 <div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png" height=450px>
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png)
-
-[Axon
-Hillock](https://commons.wikimedia.org/wiki/File:Axon_Hillock.png#/media/File:Axon_Hillock.png)"
-by
-[M.aljar3i](//commons.wikimedia.org/w/index.php?title=User:M.aljar3i&action=edit&redlink=1 "User:M.aljar3i (page does not exist)") -
-<span class="int-own-work" lang="en"> Own work</span>. Licensed under
-[CC BY-SA
-3.0](http://creativecommons.org/licenses/by-sa/3.0 "Creative Commons Attribution-Share Alike 3.0")
-via [Commons](https://commons.wikimedia.org/wiki/)
-
+<a href="https://commons.wikimedia.org/wiki/File:Axon_Hillock.png#/media/File:Axon_Hillock.png">Axon Hillock</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:M.aljar3i&amp;action=edit&amp;redlink=1" class="new" title="User:M.aljar3i (page does not exist)">M.aljar3i</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>
 </div>
 
-Driving force and equilibrium potential
----------------------------------------
+## Driving force and equilibrium potential
 
--   "Driving Force" on a given ion depends on its equilibrium potential.
--   Driving force larger if membrane potential far from equilibrium
-    potential for ion.
--   *Equilibrium potential*
-    -   Voltage that keeps current (inside/outside) concentrations the
-        same
-    -   Voltage membrane potential will approach if **only** that ion
-        flows
+- "Driving Force" on a given ion depends on its equilibrium potential.
+- Driving force larger if membrane potential far from equilibrium potential for ion.
+- *Equilibrium potential*
+    + Voltage that keeps current (inside/outside) concentrations the same
+    + Voltage membrane potential will approach if **only** that ion flows
 
-[Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
----------------------------------------------------------------------------------------------------------------------------------------
+## [Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
 
-  Ion           [inside]   [outside]   Voltage
-  ------------- ---------- ----------- --------------
-  \\(K\^+\\)    \~150 mM   \~4 mM      \~ -90 mV
-  \\(Na\^+\\)   \~10 mM    \~140 mM    \~ +55-60 mV
-  \\(Cl\^-\\)   \~10 mM    \~110 mM    - 65-80 mV
+| Ion | [inside]  | [outside]    | Voltage     |
+|-----|-----------|--------------|-------------|
+| K+  | ~150 mM   | ~4 mM        | ~ -90 mV    |
+| Na+ | ~10 mM    | ~140 mM      | ~ +55-60 mV |
+| Cl- | ~10 mM    | ~110 mM      | ~ - 65-80 mV  |
 
 <div class="centered">
-
-[![](http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif)](http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif)
-
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=400px>
+</a>
 </div>
 
-Action potential and driving forces
------------------------------------
+## Action potential and driving forces
 
 <div class="centered">
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png)
-
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png" height=450px>
+</a>
 </div>
 
-Rising phase
-------------
+## Rising phase
 
--   Membrane permeability to \\(Na\^+\\) increases
--   \\(Na\^+\\) inflow
--   \\(Na\^+\\) driving force (toward +55 mV) dominant
+- Membrane permeability to Na+ increases
+- Na+ inflow
+- Na+ driving force (toward +55 mV) dominant
 
-Falling phase
--------------
+## Falling phase
 
--   High \\(Na\^+\\) permeability ends
--   Permeability to \\(K\^+\\) increases
--   \\(K\^+\\) outflow
--   \\(K\^+\\) driving force (toward -90 mV) dominant
+- High $Na^+$ permeability ends
+- Permeability to K+ increases
+- K+ outflow
+- K+ driving force (toward -90 mV) dominant
 
-AP propagation
---------------
+## AP propagation
 
--   Propagation
-    -   move down axon, away from soma, toward axon terminals.
--   Unmyelinated axon
-    -   Each segment "excites" the next
+- Propagation
+    + move down axon, away from soma, toward axon terminals.
+- Unmyelinated axon
+    + Each segment "excites" the next
+    
+## AP propagation is like
 
-AP propagation is like
-----------------------
+<iframe width="420" height="315" src="https://www.youtube.com/embed/H0K2dvB-7WY" frameborder="0" allowfullscreen></iframe>    
 
-AP propagation
---------------
+## AP propagation
 
--   Myelinated axon
-    -   AP "jumps" between Nodes of Ranvier, *saltatory conduction*
-    -   Nodes of Ranvier == unmyelinated sections of axon
-    -   voltage-gated \\(Na\^+\\), \\(K\^+\\) channels exposed
-    -   Current flows through myelinated segments
+- Myelinated axon
+    + AP "jumps" between Nodes of Ranvier, *saltatory conduction*
+    + Nodes of Ranvier == unmyelinated sections of axon
+    + voltage-gated Na+, K+ channels exposed
+    + Current flows through myelinated segments
+    
+## Question
 
-Question
---------
+- Why does AP flow in one direction, away from soma?
+    + Soma does not have (many) voltage-gated Na+ channels.
+    + Soma is not myelinated.
+    + Refractory periods mean polarization only in one direction.
+    
+## Question
 
--   Why does AP flow in one direction, away from soma?
-    -   Soma does not have (many) voltage-gated \\(Na\^+\\) channels.
-    -   Soma is not myelinated.
-    -   Refractory periods mean polarization only in one direction.
+- Why does AP flow in one direction, away from soma?
+    + **Soma does not have (many) voltage-gated Na+ channels.**
+    + Soma is not myelinated.
+    + **Refractory periods mean polarization only in one direction.**
 
-Question
---------
+<!-- Scrolling final reference page -->
+<!-- http://stackoverflow.com/q/38260799 -->
+<style>
+slides > slide { overflow: scroll; }
+slides > slide:not(.nobackground):before {
+  background: none;
+  }
+slides > slide:not(.nobackground):after {
+  content: '';
+  background: none;
+  }
+}
+</style>
 
--   Why does AP flow in one direction, away from soma?
-    -   **Soma does not have (many) voltage-gated \\(Na\^+\\)
-        channels.**
-    -   Soma is not myelinated.
-    -   **Refractory periods mean polarization only in one direction.**
+## Conduction velocities
 
-Conduction velocities
----------------------
+<iframe width="600" height="450" src="https://en.wikipedia.org/wiki/Nerve_conduction_velocity" frameborder="0" allowfullscreen></iframe>
 
-Information processing
-----------------------
+## Information processing
 
--   AP amplitudes don't vary (much)
-    -   All or none
--   AP frequency and timing vary
-    -   Rate vs. timing codes
+- AP amplitudes don't vary (much)
+    + All or none
+- AP frequency and timing vary
+    + Rate vs. timing codes
 
-Next time…
-----------
+## Next time…
 
 -   Review for Exam 1
-

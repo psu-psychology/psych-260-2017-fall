@@ -62,6 +62,10 @@ This is a list of talks that students may wish to attend. *Attendance is not req
 
 <!-- "Cell Biological Mechanisms of Synaptic Assembly, Plasticity and Function: Lessons from C. Elegans" -->
 
+### David Leopold, Thursday, September 21, 2017 - 12:05 - 1:20 pm, 5 HHD Building
+
+"High-level Visual Specialization in the Brain: Linking Single Neurons to fMRI Networks"
+
 ### [Jim Trimmer](https://www.huck.psu.edu/content/events/2017-10-11-200000jim-trimmertba), Wednesday, October 11, 2017 - 4:00pm - 5:00 pm
 
 TBA
