@@ -390,3 +390,5 @@ Microglia in red invading dentate gyrus.
 ## Next time
 
 - Neural communication
+
+## References {.smaller}
