@@ -18,6 +18,17 @@ output:
 - Another take on the resting and action potentials
 - Action potential propagation
 
+## The Hodgkin-Huxley (HH) model {.smaller}
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Hodgkin-Huxley.svg#/media/File:Hodgkin-Huxley.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hodgkin-Huxley.svg/1200px-Hodgkin-Huxley.svg.png" alt="Hodgkin-Huxley.svg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Krishnavedala" title="User:Krishnavedala">Krishnavedala</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=21725464">Link</a></p>
+
+## HH model: Membrane as simple circuit
+
+- Membrane as capacitor (C): stores charge
+- Ion channels: resistors that can vary in conductance ($g=\frac{1}{R}$)
+- Ion flows create current (I)
+- Ohms Law: $V=\frac{I}{g}$ or $Vg=I$
+
 ## The $K^+$ story
 
 - $Na^+$/$K^+$ pump pulls $K^+$ **in**
@@ -94,6 +105,13 @@ output:
 <div class="centered">
 <img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" height=500px>
 </div>
+
+## Voltage-gated $Na^+$ and $K^+$ channels
+
+- Dynamic elements; change state over time
+    - HH equations describe state changes
+- Open and close with changes in voltage
+- Voltage-gated $Na^+$ also *inactivate*; *de-inactivate* as voltage changes
 
 ## Neuron at rest
 

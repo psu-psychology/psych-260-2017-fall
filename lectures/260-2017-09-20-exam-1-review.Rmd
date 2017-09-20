@@ -48,4 +48,6 @@ output:
 - [Glia](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-13-cells.html#10)
 - [Neuronal anatomy](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-13-cells.html#22)
 - [Resting potential -- what & why](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-15-neurophys-I.html#22)
+    - $[K^+]$ story (where concentrated, direction of flow)
+    + $[Na^+]$ story (where concentrated, direction of flow)
 - [Action potential and propagation -- how & why](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-18-neurophys-II.html#13)

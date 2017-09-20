@@ -16,35 +16,38 @@ output:
 ## History
 
 - People
-    - Aristotle, Galen, Vesalius, da Vinci, Descartes
+    - [Aristotle](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-23-systems-history.html#15), [Galen](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-23-systems-history.html#17), [Vesalius](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-23-systems-history.html#25), [da Vinci](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-23-systems-history.html#26), [Descartes](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-23-systems-history.html#28)
 - Ideas
-    - "Ventricular" theories, bodily humours, dualism, trephining
+    - ["Ventricular" theories](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-23-systems-history.html#17), [bodily humours](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-23-systems-history.html#17), [mind-body dualism](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-23-systems-history.html#31), [trephining](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-23-systems-history.html#8)
     
 ## Methods
 
-- Spatial & temporal resolution
-- Structural vs. functional
+- [Spatial & temporal resolution](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-25-levels-methods.html#12)
+- [Structural vs. functional](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-25-levels-methods.html#28)
 - Invasive vs. non-invasive
-- MRI (structural, DTI, fMRI)
-- EEG, MEG & ERP
-- Stimulation (chemical, electrical, magnetic, optical)
+- MRI ([structural](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-25-levels-methods.html#43), [diffusion tensor imaging-DTI](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-25-levels-methods.html#48), [functional MRI-fMRI](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-28-functional-methods.html#23))
+- [EEG](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-28-functional-methods.html#28), [MEG](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-28-functional-methods.html#35), & [ERP](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-28-functional-methods.html#32)
+- [Stimulation (chemical, electrical, magnetic, optical)](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-08-28-functional-methods.html#39)
 
 ## Neuroanatomy
 
-- Directions & slices
-- Brain vs. spinal cord
-- Hindbrain, midbrain, forebrain & ventricular landmarks
-- Lobes of the cerebral cortex & functions
-- Fissures & sulci
+- [Directions](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-01-anatomy-I.html#19) & [slices](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-01-anatomy-I.html#22)
+- [Hindbrain, midbrain, forebrain & ventricular landmarks](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-01-anatomy-I.html#34)
+- [Meninges](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-01-anatomy-I.html#25)
+- [Lobes of the cerebral cortex](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-06-anatomy-II.html#35) & [components](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-06-anatomy-II.html#62)
+- [Fissures & sulci](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-06-anatomy-II.html#30)
 
 ## Neuroanatomy
 
-- CNS vs. PNS
-- Autonomic vs. somatic
-- Sympathetic vs. parasympathetic
+- [CNS vs. PNS](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-01-anatomy-I.html#33)
+- [Autonomic vs. somatic](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-06-anatomy-II.html#73)
+- [Sympathetic vs. parasympathetic](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-06-anatomy-II.html#76)
 
 ## Cellular neuroscience
 
-- Neuronal anatomy
-- Resting potential -- what & why
-- Action potential and propagation -- how & why
+- [Glia](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-13-cells.html#10)
+- [Neuronal anatomy](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-13-cells.html#22)
+- [Resting potential -- what & why](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-15-neurophys-I.html#22)
+    - $[K^+]$ story (where concentrated, direction of flow)
+    + $[Na^+]$ story (where concentrated, direction of flow)
+- [Action potential and propagation -- how & why](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-18-neurophys-II.html#13)
