@@ -145,6 +145,8 @@ title: "Schedule"
 - Neurochemistry I
 - Assignments
     -  Read [W&B](https://2e.mindsmachine.com/) 4:82-86
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-09-25-neurochem-I.html) |
 
 ### Wed, Sep 27
 
