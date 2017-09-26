@@ -45,20 +45,6 @@ output:
 - <span class="red">Ca++</span>
 - Cl-
 
-## If the equilibrium potential for $Cl^-$ is -75 mV and the membrane potential at rest is -70 mV, what will happen to $Cl^-$ ions when a GABA-A channel opens?
-
-- Nothing
-- $Cl^-$ will flow out, deppolarizing the neuron
-- $Cl^-$ will flow in, hyperpolarizing the neuron
-- $Cl^-$ will flow in, depolarizing the neuron
-
-## If the equilibrium potential for $Cl^-$ is -75 mV and the membrane potential at rest is -70 mV, what will happen to $Cl^-$ ions when a GABA-A channel opens?
-
-- Nothing
-- $Cl^-$ will flow out, deppolarizing the neuron
-- <span class="red">$Cl^-$ will flow in, hyperpolarizing the neuron</span>
-- $Cl^-$ will flow in, depolarizing the neuron
-
 ## This type of postsynaptic receptor does **NOT** contain its own ion channel.
 
 - Ionotropic
@@ -71,14 +57,29 @@ output:
 - <span class="red">Metabotropic</span>
 - Ligand-gated
 
-<!-- ## Neurotransmiters -->
+## Which neurotransmitter is released at the largest number of synapses in the CNS?
 
-<!-- | Family      | Neurotansmitter                         | -->
-<!-- |-------------|-----------------------------------------| -->
-<!-- | Amino acids | **Glutamate (Glu)**                     | -->
-<!-- |             | **Gamma aminobutyric acid (GABA)**      | -->
-<!-- |             | Glycine                               | -->
-<!-- |             | Aspartate                             | -->
+- Glutamate
+- GABA
+- Acetylcholine
+- Dopamine
+
+## Which neurotransmitter is released at the largest number of synapses in the CNS?
+
+- <span class="red">Glutamate</span>
+- GABA
+- Acetylcholine
+- Dopamine
+
+
+## Neurotransmiters
+
+| Family      | Neurotansmitter                         |
+|-------------|-----------------------------------------|
+| Amino acids | **Glutamate (Glu)**                     |
+|             | **Gamma aminobutyric acid (GABA)**      |
+|             | Glycine                               |
+|             | Aspartate                             |
 
 <!-- ## Glutamate -->
 
@@ -97,29 +98,29 @@ output:
 <!-- |              | **NMDA**       | Ca++              | -->
 <!-- | Metabotropic | mGlu       |                  | -->
 
-<!-- ## GABA -->
+## GABA
 
-<!-- - Primary inhibitory NT in CNS -->
-<!-- - Excitatory in developing CNS, [Cl-] in >> [Cl-] out -->
-<!-- - Binding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc. -->
+- Primary inhibitory NT in CNS
+<!-- - Excitatory in developing CNS, $[Cl^-]_{in}$ in >> $[Cl^-]_{out}$ -->
+- Binding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.
 
-<!-- | Type         | Receptor   | Esp Permeable to | -->
-<!-- |--------------|------------|------------------| -->
-<!-- | Ionotropic   | **GABA-A**     | Cl-              | -->
-<!-- | Metabotropic | **GABA-B**     | K+            | -->
+| Type         | Receptor   | Esp Permeable to |
+|--------------|------------|------------------|
+| Ionotropic   | **GABA-A**     | Cl-              |
+| Metabotropic | **GABA-B**     | K+            |
 
-<!-- ## GABA -->
+## GABA {.smaller}
 
-<!-- <div class="centered"> -->
-<!-- <p><a href="https://commons.wikimedia.org/wiki/File:GABAA-receptor-protein-example.png#/media/File:GABAA-receptor-protein-example.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/GABAA-receptor-protein-example.png/1200px-GABAA-receptor-protein-example.png" alt="GABAA-receptor-protein-example.png" width=450px></a><br>"<a href="https://commons.wikimedia.org/wiki/File:GABAA-receptor-protein-example.png#/media/File:GABAA-receptor-protein-example.png">GABAA-receptor-protein-example</a>" by <a href="//en.wikipedia.org/wiki/User:Chemgirl131" class="extiw" title="wikipedia:User:Chemgirl131">Chemgirl131</a> at <a href="//en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a> - Transferred from&nbsp;<span class="plainlinks"><a class="external text" href="http://en.wikipedia.org">en.wikipedia</a></span>&nbsp;to Commons&nbsp;by&nbsp;<a href="//commons.wikimedia.org/wiki/User:Sreejithk2000" title="User:Sreejithk2000">Sreejithk2000</a>&nbsp;using <a href="//tools.wmflabs.org/commonshelper/" class="extiw" title="toollabs:commonshelper/">CommonsHelper</a>.. Licensed under Public Domain via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.</p> -->
-<!-- </div> -->
+<div class="centered">
+<p><a href="https://commons.wikimedia.org/wiki/File:GABAA-receptor-protein-example.png#/media/File:GABAA-receptor-protein-example.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/GABAA-receptor-protein-example.png/1200px-GABAA-receptor-protein-example.png" alt="GABAA-receptor-protein-example.png" width=450px></a><br>"<a href="https://commons.wikimedia.org/wiki/File:GABAA-receptor-protein-example.png#/media/File:GABAA-receptor-protein-example.png">GABAA-receptor-protein-example</a>" by <a href="//en.wikipedia.org/wiki/User:Chemgirl131" class="extiw" title="wikipedia:User:Chemgirl131">Chemgirl131</a> at <a href="//en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a> - Transferred from&nbsp;<span class="plainlinks"><a class="external text" href="http://en.wikipedia.org">en.wikipedia</a></span>&nbsp;to Commons&nbsp;by&nbsp;<a href="//commons.wikimedia.org/wiki/User:Sreejithk2000" title="User:Sreejithk2000">Sreejithk2000</a>&nbsp;using <a href="//tools.wmflabs.org/commonshelper/" class="extiw" title="toollabs:commonshelper/">CommonsHelper</a>.. Licensed under Public Domain via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.</p>
+</div>
 
-<!-- ## Other amino acid NTs -->
+## Other amino acid NTs
 
-<!-- - *Glycine* -->
-<!--     + Spinal cord interneurons -->
-<!-- - *Aspartate* -->
-<!--     + Like Glu, stimulates NMDA receptor -->
+- *Glycine*
+    + Spinal cord interneurons
+- *Aspartate*
+    + Like Glu, stimulates NMDA receptor
 
 ## Acetylcholine (ACh)
 
@@ -405,7 +406,3 @@ You can get this image through URL below. 次のアドレスからこのファ�
 - Hormones
 
 ## References {.smaller}
-
-
-
-
