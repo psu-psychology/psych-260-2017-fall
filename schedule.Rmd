@@ -181,6 +181,8 @@ title: "Schedule"
 - Evolution of the human brain.
 - Assignments
     - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-10-04-evolution.html) |
 
 ### Fri, Oct 6
 
