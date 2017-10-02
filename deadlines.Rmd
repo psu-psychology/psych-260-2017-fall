@@ -4,8 +4,8 @@ title: "Deadlines"
 
 | Date      | What's due/happening |
 |-----------|----------------------|
-| F Sep 1   | Quiz 1               |
-| F Sep 22  | Exam 1               |
+| F Sep 1   | [Quiz 1](quiz/psych-260-quiz-1-answers.pdf) |
+| F Sep 22  | [Exam 1](exam/psych-260-exam-1.ans.pdf) |
 | M Oct 2   | Quiz 2               |
 | M Oct 2   | [Blog post 1](blogs.html) due      |
 | F Oct 13  | Exam 2               |
