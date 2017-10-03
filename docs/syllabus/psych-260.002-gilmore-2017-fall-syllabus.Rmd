@@ -1,0 +1,32 @@
+---
+title: "Psych 260.002 Fall 2017 Syllabus"
+output: pdf_document
+---
+
+```{r child = '../index.Rmd'}
+```
+
+## About the course
+
+```{r child = '../about.Rmd'}
+```
+
+# Schedule
+
+```{r child = '../schedule.Rmd'}
+```
+
+# Evaluation
+
+```{r child = '../evaluation.Rmd'}
+```
+
+# Deadlines
+
+```{r child = '../deadlines.Rmd'}
+```
+
+# Policies
+
+```{r child = '../policies.Rmd'}
+```

@@ -71,7 +71,7 @@ output:
 
 ## Dobzhansky
 
-- "Seen in the light of evolution, biology is, perhaps, intellectually the most satisfying and inspiring science. Without that light, it becomes a pile of sundry facts some of them interesting or curious, but making no meaningful picture as a whole."
+> *"Seen in the light of evolution, biology is, perhaps, intellectually the most satisfying and inspiring science. Without that light, it becomes a pile of sundry facts some of them interesting or curious, but making no meaningful picture as a whole."*
     
 [[@Dobzhansky1973]](http://dx.doi.org/10.2307/4444260)
 
@@ -129,9 +129,10 @@ output:
 
 ## What sparked the explosion? [[@fox_what_2016]](http://doi.org/10.1038/530268a)
 
-- Behavior requires energy
 - Behavior requires perception at a distance
-- Behavior requires action
+- Behavior requires movement through space
+- Behavior requires coordinating perception with action
+- Behavior requires **energy**
 
 ## What behaviors are essential for animals to perform?
 
@@ -227,9 +228,9 @@ output:
 
 ## Brain sizes across vertebrate groups
 
-- Brain size scales with body size
+- Brain size scales with body size (more or less)
 - Mammals and birds have big brains
-- Some animals have big brains for their bodies
+- Some animals have big brains for their bodies (=high encephalization)
     + Humans
     + Crows
     + Porpoises
@@ -311,29 +312,72 @@ output:
 - Head/neck must be strong enough to carry
 - How to connect brain/body parts widely, but process info quickly
 
-## Human brains have
+<!-- ## Human brains have -->
 
-- Significant "folding"
-- Dense interconnections
-- Large "association" areas
-- Large cerebral cortex
-- High levels of myelination
+<!-- - Significant "folding" -->
+<!-- - Dense interconnections -->
+<!-- - Large "association" areas -->
+<!-- - Large cerebral cortex -->
+<!-- - High levels of myelination -->
 
-## Ways human brains differ
+<!-- ## Ways human brains differ -->
 
-- Larger than body size of comparable mammal
-- Large cerebral cortex
-- More cortical neurons (~16 billion)
-- Large-scale folding (gyri and sulci)
-- Large cortical association areas
-    + Not primary sensory or motor areas
+<!-- - Larger than body size of comparable mammal -->
+<!-- - Large cerebral cortex -->
+<!-- - More cortical neurons (~16 billion) -->
+<!-- - Large-scale folding (gyri and sulci) -->
+<!-- - Large cortical association areas -->
+<!--     + Not primary sensory or motor areas -->
 
-## Association areas
+## Does size matter? Maybe not so much.
+
+<img src="http://s3v.computerhistory.org/102695698-03-01.jpg?" width=450px>
+<img src="https://www.raspberrypi.org/app/uploads/2017/05/Raspberry-Pi-3-462x322.jpg" width=450px>
+
+<!-- ## Association areas -->
+
+<!-- <div class="centered"> -->
+<!-- <a href="https://upload.wikimedia.org/wikipedia/commons/3/35/Lateral_surface_of_cerebral_cortex_-_gyri.png"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Lateral_surface_of_cerebral_cortex_-_gyri.png" height=450px> -->
+<!-- </a> -->
+<!-- </div> -->
+    
+## A new view [@Herculano-Houzel2016-oy]
+
+- **Number** of neurons in *cerebral cortex* makes humans "special"
+
+| Species | # cortical neurons | cortical mass (g) |
+|---------|--------------------|-------------------|
+| Human   | 16 B               | 1233              |
+| Chimpanzee | 6 B             | 286               |
+| Elephant | 5.6 B             | 2800              |
+| Baboon | 2.9 B               | 120.2             |
+
+## A new view [@Herculano-Houzel2016-oy]
+
+| Species | # cortical neurons | cortical mass (g) |
+|---------|--------------------|-------------------|
+| Giraffe | 1.7 B              | 398.8             |
+| Rhesus | 1.7 B               | 69.8              |
+| Pig    | 303 M               | 42.2              |
+| Rabbit | 71 M                | 4.4               |
+
+## But humans follow typical scaling rules {.smaller}
 
 <div class="centered">
-<a href="https://upload.wikimedia.org/wikipedia/commons/3/35/Lateral_surface_of_cerebral_cortex_-_gyri.png">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Lateral_surface_of_cerebral_cortex_-_gyri.png" height=450px>
+<a href="http://www.pnas.org/content/109/Supplement_1/10661/F3.expansion.html">
+<img src="http://www.pnas.org/content/109/Supplement_1/10661/F3.large.jpg" height=500px>
 </a>
+
+[[@Herculano-Houzel2012-up]](http://doi.org/10.1073/pnas.1201895109)
+</div>
+
+## # of cortical (or its equivalent) neurons predicts "cognition"? {.smaller}
+
+<div class="centered">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S2352154616302637-gr3_lrg.jpg" width=900px>
+
+[[@Herculano-Houzel2017-gf]](http://doi.org/10.1016/j.cobeha.2017.02.004)
 </div>
     
 ## How did it get this way?
