@@ -1,6 +1,6 @@
-# PSYCH 260.002
-## Fall 2017
-## Blog Rubric for Participation Points
+---
+title: "Blog assignment"
+---
 
 ## Format, due date
 
@@ -32,7 +32,7 @@ Be mindful of personal privacy. You should not reveal sensitive or personal info
 
 ## How to submit
 
-Send an email to Dr. Gilmore and the TA, Einat Brenner. Include the URL (web link) to your blog in the message.
+Send an email to Dr. Gilmore and the TA, Jason Feldman. Include the URL (web link) to your blog in the message.
 
 ## Sources
 
