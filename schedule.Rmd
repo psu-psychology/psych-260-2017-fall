@@ -187,6 +187,8 @@ title: "Schedule"
 ### Fri, Oct 6
 
 - Development of the brain
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-10-06-development.html) |
 
 ---
     

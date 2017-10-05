@@ -1,0 +1,385 @@
+---
+title: "260-2017-10-06-development"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Today's Topics
+
+- Wrap-up on brain evolution
+- How the human brain develops
+
+## Selection pressures
+
+- Natural and sexual selection for
+    + Traits that improve reproductive success
+- Physical AND psychological traits
+    + Hardware and software
+
+## Samsung Galaxy S8
+
+<div class="centered">
+<img src="https://cnet2.cbsistatic.com/img/ZUDM6ju-7h7kA9-4XgIWFb8fN6Y=/830x467/2017/03/29/668be2fe-e1c3-451c-a7e5-e40a15291fe0/samsung-galaxy-s8-010.jpg" height=450px>
+</div>
+
+## Apple iPhone X
+
+<div class="centered">
+<img src="https://icdn2.digitaltrends.com/image/apple-iphone-x-news-announcement-feature.jpg" height=450px>
+</div>
+
+## Virtues of big phones/brains
+
+- More storage
+- More processing capacity
+- Better sensors
+- Better output
+- More, better apps
+- Do more, faster
+
+## Costs of big brains
+
+- Long time to build
+- Lots of energy to nourish/maintain
+- Long time to program/train/educate
+- Head/neck must be strong enough to carry
+- How to connect brain/body parts widely, but process info quickly
+
+## Does size matter? Maybe not so much.
+
+<img src="http://s3v.computerhistory.org/102695698-03-01.jpg?" width=450px>
+<img src="https://www.raspberrypi.org/app/uploads/2017/05/Raspberry-Pi-3-462x322.jpg" width=450px>
+
+## A new view [@Herculano-Houzel2016-oy]
+
+- **Number** of neurons in *cerebral cortex* makes humans "special"
+
+| Species | # cortical neurons | cortical mass (g) |
+|---------|--------------------|-------------------|
+| Human   | 16 B               | 1233              |
+| Chimpanzee | 6 B             | 286               |
+| Elephant | 5.6 B             | 2800              |
+| Baboon | 2.9 B               | 120.2             |
+
+## A new view [@Herculano-Houzel2016-oy]
+
+| Species | # cortical neurons | cortical mass (g) |
+|---------|--------------------|-------------------|
+| Giraffe | 1.7 B              | 398.8             |
+| Rhesus | 1.7 B               | 69.8              |
+| Pig    | 303 M               | 42.2              |
+| Rabbit | 71 M                | 4.4               |
+
+## But humans follow scaling rules typical of other animals {.smaller}
+
+<div class="centered">
+<a href="http://www.pnas.org/content/109/Supplement_1/10661/F3.expansion.html">
+<img src="http://www.pnas.org/content/109/Supplement_1/10661/F3.large.jpg" height=500px>
+</a>
+
+[[@Herculano-Houzel2012-up]](http://doi.org/10.1073/pnas.1201895109)
+</div>
+
+## # of cortical (or its equivalent) neurons predicts "cognition"? {.smaller}
+
+<div class="centered">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S2352154616302637-gr3_lrg.jpg" width=900px>
+
+[[@Herculano-Houzel2017-gf]](http://doi.org/10.1016/j.cobeha.2017.02.004)
+</div>
+    
+## How did human brain get this way?
+
+- Build upon mammalian/primate norms
+    + Add neurons to cerebral cortex
+- More efficient energy intake
+    + calories/hr foraging vs.
+    + cooking?
+- Prolonged (in time) pattern of development
+- Specialized pattern of development
+    + Significant time post-natal/pre-reproductive (childhood)
+
+## Human brain development take homes
+
+- Prenatal
+    + Neuro- and gliogenesis
+    + Migration
+    + Synaptogenesis begins
+    + Differentiation
+    + Apoptosis
+    + Myelination begins
+    + Infant gene expression ≠ Adult
+    
+## Human brain development take homes
+
+- Postnatal
+    + Synaptogenesis
+    + Cortical expansion, activity-dependent change
+    + Myelination
+    + Prolonged period of postnatal/pre-reproductive development, i.e., childhood [@konner_evolution_2011]
+
+## Neurulation
+
+<div class="centered">
+<a href="http://thebrain.mcgill.ca/flash/i/i_09/i_09_cr/i_09_cr_dev/i_09_cr_dev_2a.jpg">
+<img src="http://thebrain.mcgill.ca/flash/i/i_09/i_09_cr/i_09_cr_dev/i_09_cr_dev_2a.jpg" height=450px>
+</a>
+</div>
+    
+## Formation of neural tube (neurulation)
+
+- Three embryonic tissue layers: Ectoderm, mesoderm, endoderm
+- Ectoderm folds on itself to form neural tube
+    + ~20 days post-fertilization
+- Neural tube becomes
+    + Ventricles (and cerebral aqueduct)
+    + Central canal of spinal cord
+    + rostral/caudal axis of CNS
+    
+## Neurulation
+
+- Failures of neural tube closure
+    + Spina bifida
+    + Anencephaly
+    
+## Spina Bifida
+
+<div class="centered">
+<a href="http://www.stanfordchildrens.org/content-public/topic/images/05/161405.gif">
+<img src="http://www.stanfordchildrens.org/content-public/topic/images/05/161405.gif" height=450px>
+</a>
+</div>
+
+## Neurogenesis and gliogenesis
+
+- Stem cells along ventricles
+- Symmetric cell division
+    + Daughter cells can also divide, increases # of proliferative cells
+- Asymmetric cell division
+    + Daughter cells post-mitotic (don't divide)
+
+## Radial glia
+
+<div class="centered">
+<a href="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/img/radial-glia.jpg">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/img/radial-glia.jpg" height=450px>
+</a>
+</div>
+
+## Cell migration
+
+<div class="centered">
+<a href="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/img/neural-tube.jpg">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/img/neural-tube.jpg" height=450px>
+</a>
+</div>
+
+## Radial unit hypothesis
+
+<div class="centered">
+<a href="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f2.jpg">
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f2.jpg" height=450px>
+</a>
+
+[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
+</div>
+
+## Radial unit hypothesis
+
+- "Units" along rostral/caudal and superior inferior axis determine "fate" of associated CNS region
+
+## Migration
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ZRF-gKZHINk" frameborder="0" allowfullscreen></iframe>
+
+## Migration
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/t-8bxeWqSV4" frameborder="0" allowfullscreen></iframe>
+
+## Glial migration {.smaller}
+
+<div class="centered">
+<a href="http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F4.medium.gif">
+<img src="http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F4.medium.gif" height=450px>
+</a>
+
+<http://physrev.physiology.org/content/81/2/871>
+</div>
+
+## Axon growth cone
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Fgmt2RBow0I" frameborder="0" allowfullscreen></iframe>
+
+## Axons follow
+
+- Chemoattractants
+    + e.g., Nerve Growth Factor (NGF)
+- Chemorepellents
+- Receptors in growth cone detect chemical gradients
+
+## Differentiation
+
+- Neuron vs. glial cell
+- Cell type
+- NTs released
+- Where to connect
+
+## Differential gene expression by cortical area {.smaller}
+
+<div class="centered">
+<a href="img/johnson-2009.jpg">
+<img src="img/johnson-2009.jpg" width=900px>
+</a>
+
+[[@johnson2009functional]](http://dx.doi.org/10.1016/j.neuron.2009.03.027)
+</div>
+
+## Prefrontal vs. Other Ctx {.smaller}
+
+<div class="centered">
+<a href="johnson-2009-fig.jpg">
+<img src="img/johnson-2009-fig.jpg" height=450px>
+</a>
+
+[[@johnson2009functional]](http://dx.doi.org/10.1016/j.neuron.2009.03.027)
+</div>
+
+## Synaptogenesis
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/img/synaptic-density-infant.jpg" height=450px>
+</div>
+
+## Postnatal patterns of synaptogenesis
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/img/huttenlocher.jpg" height=450px>
+</div>
+
+## Proliferation, pruning
+
+- Early proliferation
+- Later pruning
+- Rates, peaks differ by area
+
+## Apoptosis
+
+- "Programmed" cell death
+- 20-80%, varies by area
+- Spinal cord >> cortex
+
+## Apoptosis and cortical expansion {.smaller}
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f3.jpg" height=450px>
+
+[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
+</div>
+
+## Synaptic rearrangement
+
+<div class="centered">
+<img src="https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/img/huttenlocher.jpg" height=450px>
+</div>
+
+## Myelination
+
+<div class="centered">
+<img src="http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F6.large.jpg" height=450px>
+</div>
+
+## Myelination
+
+- Neonatal brain largely unmyelinated
+- Gradual myelination, peaks in mid-20s
+- Spinal cord before brain
+- Sensory before motor, except in dorsal/ventral roots of PNS
+
+## Diffusion Tensor Imaging (DTI)
+
+- Structural MRI measure
+- Diffusion of water molecules
+- Diffusion in a specific direction (aniosotropy) -> white matter integrity
+
+## DTI
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/atLQVgUwnrY" frameborder="0" allowfullscreen></iframe>
+
+## Myelination across human development {.smaller}
+
+<div class="centered">
+<img src="http://www.pnas.org/content/107/44/19067/F1.medium.gif" height=450px>
+
+[[@Hagmann02112010]](http:/doi.org/10.1073/pnas.1009073107)
+</div>
+
+## Myelination changes "network" properties {.smaller}
+
+<div class="centered">
+<img src="http://www.pnas.org/content/107/44/19067/F2.medium.gif" height=450px>
+
+[[@Hagmann02112010]](http:/doi.org/10.1073/pnas.1009073107)
+</div>
+
+## Synaptic rearrangment, myelination change cortical thickness
+
+- [[@Gogtay2004-bq]](http://doi.org/10.1073/pnas.0402680101)
+- Thickness of cerebral cortex *declines*
+    - Synaptic pruning?
+- Areas differ
+
+## [[@Gogtay2004-bq]](http://doi.org/10.1073/pnas.0402680101)
+
+<video width="320" height="240" controls loop autoplay="autoplay">
+  <source src="mov/02680Movie1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls loop autoplay="autoplay">
+  <source src="mov/02680Movie2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls loop autoplay="autoplay">
+  <source src="mov/02680Movie3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls loop autoplay="autoplay">
+  <source src="mov/02680Movie4.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+## Human brain development take homes
+
+- Prenatal
+    + Neuro- and gliogenesis
+    + Migration
+    + Synaptogenesis begins
+    + Differentiation
+    + Apoptosis
+    + Myelination begins
+    + Infant gene expression ≠ Adult
+    
+## Human brain development take homes
+
+- Postnatal
+    + Synaptogenesis
+    + Cortical expansion, activity-dependent change
+    + Myelination
+    + Prolonged period of postnatal/pre-reproductive development
+    
+## Next time...
+
+- Brain development beyond childhood
+
+## References {.smaller}
