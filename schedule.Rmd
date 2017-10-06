@@ -170,7 +170,7 @@ title: "Schedule"
 
 ### Mon, Oct 2
 
-- **Quiz 2**.
+- **Quiz 2**. | [Answer key](quiz/psych-260-quiz-2-ans.pdf) | 
 - Exam 1 returned. | [Answer key](exam/psych-260-exam-1.ans.pdf) | 
 - **Blog post 1 (of 3) due**. | [Assignment details](blog-assignment.html) |
 - Materials
