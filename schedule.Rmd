@@ -197,6 +197,8 @@ title: "Schedule"
 ### Mon, Oct 9
 
 - Development of the adolescent brain
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-10-09-development-II.html) |
 
 ### Wed, Oct 11
 
