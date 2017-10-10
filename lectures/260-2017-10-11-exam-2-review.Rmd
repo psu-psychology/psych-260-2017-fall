@@ -1,0 +1,68 @@
+---
+title: "260-2017-10-11-exam-2-review"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Neuroanatomy
+
+- [Hindbrain, midbrain, forebrain & ventricular landmarks](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-01-anatomy-I.html#34)
+- [Autonomic vs. somatic](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-06-anatomy-II.html#73)
+- [Sympathetic vs. parasympathetic](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-06-anatomy-II.html#76)
+
+## Cellular neuroscience
+
+- [Glia](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-13-cells.html#10)
+- [Neuronal anatomy](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-13-cells.html#22)
+
+## Neurophysiology
+
+- [Resting potential -- what & why](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-15-neurophys-I.html#22)
+    - $[K^+]$ story (where concentrated, direction of flow)
+    + $[Na^+]$ story (where concentrated, direction of flow)
+- [Action potential and propagation -- how & why](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-18-neurophys-II.html#13)
+- [Steps leading to neurotransmitter release](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-25-neurochem-I.html#6) and [graphic summary](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-25-neurochem-I.html#26)
+
+## Neurochemistry
+
+- Types: [Amino acids](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-25-neurochem-I.html#27) and [this](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-27-neurochem-II.html#13), [Acetylcholine](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-27-neurochem-II.html#15), [Monoamines](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-27-neurochem-II.html#21)
+
+## Neurochemistry
+
+- Anatomy (where released) and function
+- Receptor types: [ionotropic vs. metabotropic](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-25-neurochem-I.html#12)
+- [Inactivation mechanisms & rationale](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-25-neurochem-I.html#16)
+- [EPSPs & IPSPs](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-25-neurochem-I.html#15)
+
+## [Hormones](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-29-hormones.html#21)
+
+- [Behaviors under hormonal influence](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-29-hormones.html#25)
+- [Anatomy: Where released](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-29-hormones.html#34)
+- [Direct (posterior pituitary) vs. indirect (anterior) release](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-29-hormones.html#38)
+- [Responses to threat/challenge](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-29-hormones.html#45)
+- [Milk letdown reflex](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-09-29-hormones.html#48)
+
+## Brain evolution
+
+- [Timeline of life history on Earth](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-10-04-evolution.html#18)
+- Emergence of complex nervous systems
+- [Comparing vertebrate brains](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-10-04-evolution.html#31)
+- [Patterns of brain/body mass across vertebrates](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-10-04-evolution.html#33)
+- [Human brains vs. other animals](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-10-04-evolution.html#47)
+
+## Brain development
+
+- [Neurulation](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-10-06-development.html#16)
+- [Prenatal vs. postnatal](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-10-06-development.html#14)
+- Examples of [progressive](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-10-06-development.html#33) & [regressive](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-10-06-development.html#36) patterns
+- [Cortical thickness](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-10-09-development-II.html#35)
+- [Myelination](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-10-09-development-II.html#21)

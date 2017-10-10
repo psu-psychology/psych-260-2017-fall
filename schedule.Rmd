@@ -203,10 +203,12 @@ title: "Schedule"
 ### Wed, Oct 11
 
 - Review for Exam 2
+- Materials
+    - Study guide. | [HTML slides](lectures/260-2017-10-11-exam-2-review.html) |
 
 ### Fri, Oct 13
 
-- **Exam  2**.
+- **Exam  2**
 
 ---
 
