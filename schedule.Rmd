@@ -226,7 +226,7 @@ title: "Schedule"
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 12:358-359.
 
-### Fri, March 20
+### Fri, Oct 20
 
 - Topic
     - Psychopathology III: Depression.
