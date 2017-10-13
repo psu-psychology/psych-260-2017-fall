@@ -216,9 +216,11 @@ title: "Schedule"
 
 ### Mon, Oct 16
 
-- Psychopathology I: Schizophrenia.
+<!-- Jason lecturing -->
+- Topic
+    - Psychopathology I: Depression.
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 12:338-352.
+    - Read [W&B](https://2e.mindsmachine.com/) 12:352-358.
 
 ### Wed, Oct 18
 
@@ -228,10 +230,9 @@ title: "Schedule"
 
 ### Fri, Oct 20
 
-- Topic
-    - Psychopathology III: Depression.
+- Psychopathology III: Schizophrenia.
 - Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 12:352-358.
+    - Read [W&B](https://2e.mindsmachine.com/) 12:338-352.
 
 ---
 
