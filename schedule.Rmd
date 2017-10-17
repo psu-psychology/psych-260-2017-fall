@@ -221,12 +221,18 @@ title: "Schedule"
     - Psychopathology I: Depression.
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 12:352-358.
+    
+<!-- What do drug treatments do? Look at pop sci article; what does it get wrong? -->
 
 ### Wed, Oct 18
 
 - Psychopathology II: Bipolar disorder.
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 12:358-359.
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-10-18-bipolar.html) | [PDF](lectures/260-2017-10-18-bipolar.pdf) |
+    
+<!-- Find bio of famous person with bipolar; what do treatments actually do? -->
 
 ### Fri, Oct 20
 
