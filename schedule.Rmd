@@ -222,7 +222,7 @@ title: "Schedule"
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 12:352-358.
 - Materials
-    - Lecture notes. | [PDF](lectures/Depression_Lecture 10.16.pptx.pdf.pdf) |
+    - Lecture notes. | [PDF](lectures/Depression_Lecture 10.16.pptx.pdf) |
     
 <!-- What do drug treatments do? Look at pop sci article; what does it get wrong? -->
 
