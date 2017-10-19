@@ -241,6 +241,8 @@ title: "Schedule"
 - Psychopathology III: Schizophrenia.
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 12:338-352.
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-10-20-schizophrenia.html) | [PDF](lectures/260-2017-10-20-schizophrenia.pdf) |
 
 ---
 
@@ -283,7 +285,6 @@ title: "Schedule"
 - Pain
 - Assignments
     - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) |
-
 ---
 
 ## Week 12, November 6 - 10
@@ -321,9 +322,10 @@ title: "Schedule"
 
 ### Fri, Nov 17
 
-- Vision II.
-- Assignments
-    - Read [W&B](https://2e.mindsmachine.com/) 7:185-207.
+**NO CLASS**
+<!-- - Vision II. -->
+<!-- - Assignments -->
+<!--     - Read [W&B](https://2e.mindsmachine.com/) 7:185-207. -->
 
 ---
 
