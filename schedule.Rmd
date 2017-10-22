@@ -254,6 +254,8 @@ title: "Schedule"
     - Emotion, Happiness, Reward
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 11:310-336
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-10-23-emotion-reward.html) | [PDF](lectures/260-2017-10-23-emotion-reward.pdf) |
 
 ### Wed, Oct 25
 
