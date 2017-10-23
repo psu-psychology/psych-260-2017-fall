@@ -1,0 +1,341 @@
+---
+title: "260-2017-10-25-happiness-reward-fear"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Don't You Worry 'Bout a Thing
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/vJTxzsHsako" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- Happiness, pleasure, and the reward system
+- Fear & stress
+- Quiz 3 Friday
+
+## Components of happiness
+
+- [Aristotle](http://plato.stanford.edu/entries/aristotle-ethics/)
+- Hedonia
+    + Pleasure
+- Eudaimonia
+    + Life satisfaction
+    + Relates to motivation
+
+## "Computing" 'happiness'
+
+- Inputs
+    + External
+    + Internal
+- Processing
+- Outputs
+    + Feelings
+    + Actions
+
+## Brain mechanisms
+
+- Circuits for signaling pleasure and pain
+- Similarities across animal species
+- Dopamine and endogenous opioid neurotransmitter systems involved
+
+## Neuroanatomy of 'happiness' {.smaller}
+
+<div class="centered">
+<img src="img/kringelbach-2009-fig-2.jpg" width=900px>
+
+[[@kringelbach2009towards]](http://dx.doi.org/10.1016/j.tics.2009.08.006)
+</div>
+
+
+## Rewards
+
+- A *reward* reinforces (makes more prevalent/probable) some behavior
+- Milner and Olds [[@milner_discovery_1989]](http://doi.org/10.1016/S0149-7634(89)80013-2) discovered 'rewarding' power of electrical self-stimulation
+- [[@heath1963electrical]](http://doi.org/10.1176/ajp.120.6.571) studied effects in human patients.
+
+## Electrical self-stimulation
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/de_b7k9kQp0" frameborder="0" allowfullscreen></iframe>
+
+## "Reward" circuitry in the brain {.smaller}
+
+<div class="centered">
+<img src="img/nestler-fig-1.jpg" height=450px>
+
+[[@nestler2006mesolimbic]](http://dx.doi.org/10.1016/j.biopsych.2005.09.018)
+</div>
+
+## Nodes in the "reward" circuit
+
+- Ventral tegmental area (VTA) in midbrain
+- Nucleus accumbens (nAcc), ventral striatum
+- Hypothalamus (Hyp)
+- Amygdala (Amy)
+- Hippocampus (HP)
+- Dorsal Raphe Nucleus/Locus Coeruleus (DR/LC)
+- Prefrontal cortex (PFC)
+
+## Nucleus accumbens and dorsal striatum {.smaller}
+
+<div class="centered">
+<img src="img/kohls-fig-2.jpg" height=450px>
+
+[[@kohls2012social]](http://dx.doi.org/10.1186/1866-1955-4-10)
+</div>
+
+## Psychopharmacology of 'happiness'
+
+- Dopamine
+- <span class="blue">Opioids</span>
+- <span class="blue">Cannabinoids</span>
+- Serotonin, Norepinephrine
+- <span class="blue">ACh</span>
+
+## Endogenous morphine-like NTs (endorphins) from hyp, NST {.smaller}
+
+<div class="centered">
+<img src="img/endorphins-niaa.gif" height=450px>
+
+[[@clapp-niaa]](http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm)
+</div>
+
+## Endogenous cannabinoid system
+
+- Cannabinoids == psychoactive compounds found in cannibis
+- Cannabinoid receptors, CB1 in CNS; CB2 in body, immune system
+
+---
+
+<div class="centered">
+<img src="img/fnins-07-00256-g001.jpg" height=400px>
+
+[[@flores_cannabinoid-hypocretin_2013]](http://dx.doi.org/10.3389/fnins.2013.00256)
+</div>
+
+## Brain contains its own systems for binding drugs associated with 'pleasure'
+
+- Endogenous opioids (endorphins)
+- Endogenous cannabinoids
+
+## ACh projections in the CNS {.smaller}
+
+<div class="centered">
+<img src="img/ncpneuro0775-f4.jpg" height=450px>
+
+[[@cock_sleep_2008]](http://dx.doi.org/10.1038/ncpneuro0775)
+</div>
+
+## Generalizations about happiness/pleasure
+
+- Types of pleasure activate overlapping areas
+- Pleasure/happiness engage a network of brain areas
+- Pleasure/happiness signaling involves multiple neuromodulators, but DA especially important
+- “Reward” pathways activated by many different inputs.
+
+# The neuroscience of fear and stress
+
+## Inducing "fear-like" behavior in animals {.smaller}
+
+<div class="centered">
+<img src="img/ledoux-lab-fear_conditioning.jpg" height=450px>
+
+<http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg>
+</div>
+
+## Rat vs. Human {.smaller}
+
+<div class="centered">
+<img src="img/davis-anxiety-rat-vs-human.jpg" height=450px>
+
+Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
+</div>
+
+## Your thoughts: Can we use an animal model to study 'emotion'?
+
+## Amygdala circuits {.smaller}
+
+<div class="centered">
+<img src="img/fear-conditioning-amygdala-nrn728-f2.gif" height=450px>
+
+[[@medina2002parallels]](http://dx.doi.org/10.1038/nrn728)
+</div>
+
+## Amygdala's inputs
+
+- Convergent inputs
+    + Thalamus ("direct" or "fast"")
+    + Cerebral cortex ("indirect" or "slow")
+
+## Amygdala's outputs
+
+- Project to
+    + CG (central gray matter) of tegmentum: behavior
+    + LH (lateral hyp): ANS
+    + PVN (paraventricular n. of hyp): hormones
+- Fast-acting, involuntary responses
+- Lesions of amygdala impair 'fear conditioning'
+
+## Cerebral cortex role
+
+- Response discrimination?
+    + Cortex lesions cause generalized not cue-specific fear response 
+- Fast, crude responses vs. slower, detailed ones
+    + That’s a stick, not a snake!
+    + Prefrontal cortex and response inhibition
+
+## But, are we really studying learned 'fear'?
+
+- Amygdala connected to other 'affective' nodes in neural network
+- Emotion not just about subjective feelings
+
+## Amygdala as processing hub {.smaller}
+
+<div class="centered">
+<img src="img/pessoa-nrn.jpg" height=450px>
+
+[[@pessoa_relationship_2008]](http://dx.doi.org/10.1038/nrn2317)
+</div>
+
+## Amygdala as key hub in circuit for survival {.smaller}
+
+<div class="centered">
+<img src="img/ledoux-2012-f3.jpg" height=450px>
+
+[[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
+</div>
+
+## Emotion as global physiological/behavioral "state" {.smaller}
+
+<div class="centered">
+<img src="img/ledoux-2012-f4.jpg" height=450px>
+
+[[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
+</div>
+
+## "Emotional" stimuli serve multiple roles {.smaller}
+
+<div class="centered">
+<img src="img/ledoux-2012-table-1.jpg" height=450px>
+
+[[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
+</div>
+
+## Stress {.smaller}
+
+<div class="centered">
+<img src="http://visionarity.com/wp-content/uploads/2016/03/stress_managment.jpg" height=450px>
+</div>
+
+## Stressors linked with biological imperatives
+
+- Sustenance
+    + Hunger, thirst
+- Well-being/defense
+    + Threat
+    
+## Stressors linked with biological imperatives
+
+- Reproduction
+    + Rejection
+- Affiliation
+    + Loneliness
+     
+## Stress and the brain {.smaller}
+
+<div class="centered">
+<img src="img/mcewen-2007-f1.jpg" height=450px>
+
+[[@mcewen_physiology_2007]](http://dx.doi.org/10.1152/physrev.00041.2006)
+</div>
+
+## Brain under stress 
+
+- **Acute** stress
+    + Short duration
+    + Fast action required
+    + HPA (Cortisol), SAM (NE/Epi) axes
+- Brain detects threat
+- Mobilizes physiological, behavioral responses
+
+## Brain under stress
+
+- vs. **Chronic** stress
+    + Long duration, persistent
+    
+## Glucocorticoids
+
+- Adrenal cortex releases hormones
+    + Cortisol (hydrocortisone)
+        * Increases blood glucose levels
+        * Suppresses immune system
+        * Reduces inflammation
+        * Aids in metabolism
+    + Receptors in brain and body
+    
+## Cortisol and the brain {.smaller}
+
+<div class="centered">
+<img src="img/cortisol-molecular-brain.jpg" height=450px>
+
+<http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg>
+</div>
+
+## Glucocorticoid cascade hypothesis
+
+- Cort receptors in hippocampus, amygdala, hypothalamus
+    - Hippocampus regulates HPA axis via hypothalamus
+- Prolonged cortisol exposure reduces hippocampus response
+    - Reduces volume, connectivity in hippocampus
+- Hip critical for long-term memory formation
+    - Chronic stress impairs long-term memory
+
+## But, cortisol -> stress link not straightforward {.smaller}
+
+<div class="centered">
+<img src="img/faresjo-2013.jpg" width=800px>
+
+[[@faresjo_higher_2013]](http://dx.doi.org/10.1371/journal.pone.0073828)
+</div>
+
+## Stress and coping across the animal kingdom
+
+- Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain
+- Rats will cooperate to release distressed cage mage, foregoing food rewards
+- [[@sapolsky_psychiatric_2016]](http://doi.org/10.1038/nn.4397)
+
+## Why Zebras Don't Get Ulcers
+
+<div class="centered">
+<img src="img/zebras-sapolsky.jpg" height=450px>
+</div>
+
+## Your stress ain't like mine
+
+- Phasic (short-term) vs. Chronic (long-term)
+- Physical stress (hunger, thirst, injury, disease) vs. social stress
+
+## Main points
+
+- Biological approach to emotion
+    + Behavior
+    + Physiological states
+    + Subjective feelings
+    + Adaptive function
+- Networks of brain systems, multiple NT systems
+
+## Next time
+
+- Quiz 3
+- Review Exam 2
+
+## References {.smaller}
