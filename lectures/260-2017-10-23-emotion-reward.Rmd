@@ -50,7 +50,10 @@ output:
     - Physiological response -> subjective feelings
 - Cannon-Bard
     - Severing CNS (spinal cord & vagus) from rest of body leaves emotional expression unchanged
-    - Physiological states slow, don't differentiate among emotions 
+    - Physiological states slow, don't differentiate among emotions
+    
+## Competing views
+
 - Schacter-Singer
     - Physiological arousal + cognitive appraisal -> emotional states
 
@@ -123,10 +126,6 @@ output:
 <img src="img/pessoa-nrn.jpg" height=450px>
 
 [[@pessoa_relationship_2008]](http://dx.doi.org/10.1038/nrn2317)
-</div>
-
-<div class="notes">
-Pessoa noted that from a network perspective, the amygdala is among the most centrally connected parts of the brain. It's a 'hub', in other words.
 </div>
 
 ## [[@pessoa_relationship_2008]](http://dx.doi.org/10.1038/nrn2317)
@@ -217,7 +216,7 @@ Cole, P., Gilmore, R.O., Scherf, K.S. & Perez-Edgar, K. (2016). The Proximal Emo
 ---
 
 <div class="centered">
-<img src="img/damasio-angry.jpg">
+<img src="img/damasio-happy.jpg">
 
 [[@Damasio2000-vd]](http://doi.org/10.1038/79871)
 </div>
@@ -225,10 +224,11 @@ Cole, P., Gilmore, R.O., Scherf, K.S. & Perez-Edgar, K. (2016). The Proximal Emo
 ---
 
 <div class="centered">
-<img src="img/damasio-happy.jpg">
+<img src="img/damasio-angry.jpg">
 
 [[@Damasio2000-vd]](http://doi.org/10.1038/79871)
 </div>
+
 
 ---
 
@@ -267,7 +267,7 @@ Cole, P., Gilmore, R.O., Scherf, K.S. & Perez-Edgar, K. (2016). The Proximal Emo
 
 ## [[@pollick_ape_2007]](http://doi.org/10.1073/pnas.0702624104)
 
-*...The study distinguished 31 manual gestures and 18 facial/vocal signals. It was found that homologous facial/vocal displays were used very similarly by both [bonobos and chimpanzees], yet the same did not apply to gestures. Both within and between species gesture usage varied enormously. Moreover, bonobos showed greater flexibility in this regard than chimpanzees and were also the only species in which multimodal communication (i.e., combinations of gestures and facial/vocal signals) added to behavioral impact on the recipient.*
+*...The study distinguished 31 manual gestures and 18 facial/vocal signals. It was found that <span class="blue">homologous facial/vocal displays were used very similarly by both [bonobos and chimpanzees], yet the same did not apply to gestures</span>. Both within and between species gesture usage varied enormously. Moreover, bonobos showed greater flexibility in this regard than chimpanzees and were also the only species in which multimodal communication (i.e., combinations of gestures and facial/vocal signals) added to behavioral impact on the recipient.*
 
 ## Are non-human animals consistent in their use of emotion-expressing actions?
 
@@ -302,162 +302,130 @@ Cole, P., Gilmore, R.O., Scherf, K.S. & Perez-Edgar, K. (2016). The Proximal Emo
 
 ## [[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
 
->> *We propose that emotions are represented in the somatosensory system as culturally universal categorical somatotopic maps. Perception of these emotion-triggered bodily changes may play a key role in generating consciously felt emotions.*
+>> *We propose that emotions are represented in the somatosensory system as culturally universal <span class="blue">categorical somatotopic maps</span>. Perception of these emotion-triggered bodily changes may play a key role in generating consciously felt emotions.*
     
-## Biological systems involved in specific emotions
+<!-- ## Biological systems involved in specific emotions -->
 
-- Happiness
+<!-- - Happiness -->
 
-## Components of happiness
+<!-- ## Components of happiness -->
 
-- [Aristotle](http://plato.stanford.edu/entries/aristotle-ethics/)
-- Hedonia
-    + Pleasure
-- Eudaimonia
-    + Life satisfaction
-    + Relates to motivation
-    
-## "Computing" 'happiness'
+<!-- - [Aristotle](http://plato.stanford.edu/entries/aristotle-ethics/) -->
+<!-- - Hedonia -->
+<!--     + Pleasure -->
+<!-- - Eudaimonia -->
+<!--     + Life satisfaction -->
+<!--     + Relates to motivation -->
 
-- Inputs
-    + External
-    + Internal
-- Processing
-- Outputs
-    + Feelings
-    + Actions
-    
-## Brain mechanisms
+<!-- ## "Computing" 'happiness' -->
 
-- Circuits for signaling pleasure and pain
-- Similarities across animal species
-- Dopamine and endogenous opioid neurotransmitter systems involved
-    
-## Neuroanatomy of 'happiness' {.smaller}
+<!-- - Inputs -->
+<!--     + External -->
+<!--     + Internal -->
+<!-- - Processing -->
+<!-- - Outputs -->
+<!--     + Feelings -->
+<!--     + Actions -->
 
-<div class="centered">
-<img src="img/kringelbach-2009-fig-2.jpg" width=700px>
-</div>
+<!-- ## Brain mechanisms -->
 
-[[@kringelbach2009towards]](http://dx.doi.org/10.1016/j.tics.2009.08.006)
+<!-- - Circuits for signaling pleasure and pain -->
+<!-- - Similarities across animal species -->
+<!-- - Dopamine and endogenous opioid neurotransmitter systems involved -->
 
-## Rewards
+<!-- ## Neuroanatomy of 'happiness' {.smaller} -->
 
-- A *reward* reinforces (makes more prevalent/probable) some behavior
-- Milner and Olds [[@milner_discovery_1989]](http://doi.org/10.1016/S0149-7634(89)80013-2) discovered 'rewarding' power of electrical self-stimulation
-- [[@heath1963electrical]](http://doi.org/10.1176/ajp.120.6.571) studied effects in human patients.
+<!-- <div class="centered"> -->
+<!-- <img src="img/kringelbach-2009-fig-2.jpg" width=700px> -->
+<!-- </div> -->
 
-## Electrical self-stimulation
+<!-- [[@kringelbach2009towards]](http://dx.doi.org/10.1016/j.tics.2009.08.006) -->
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/de_b7k9kQp0" frameborder="0" allowfullscreen></iframe>
+<!-- ## Rewards -->
 
-## "Reward" circuitry in the brain
+<!-- - A *reward* reinforces (makes more prevalent/probable) some behavior -->
+<!-- - Milner and Olds [[@milner_discovery_1989]](http://doi.org/10.1016/S0149-7634(89)80013-2) discovered 'rewarding' power of electrical self-stimulation -->
+<!-- - [[@heath1963electrical]](http://doi.org/10.1176/ajp.120.6.571) studied effects in human patients. -->
 
-<div class="centered">
-<img src="img/nestler-fig-1.jpg" height=450px>
+<!-- ## Electrical self-stimulation -->
 
-[[@nestler2006mesolimbic]](http://dx.doi.org/10.1016/j.biopsych.2005.09.018)
-</div>
+<!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/de_b7k9kQp0" frameborder="0" allowfullscreen></iframe> -->
 
-<div class="notes">
-The accidental discovery that electrical stimulation could be pleasurable launched a research program into the circuits that control both pleasure and positive feelings. The electrical stimulation involved a path from the ventral tegmental area (VTA) in the midbrain to the nucleus accumbens (NAc) in the ventral striatum -- the anterior-most part of the caudate and putamen nuclei of the basal ganglia.
-</div>
+<!-- ## "Reward" circuitry in the brain -->
 
-## Nodes in the "reward" circuit
+<!-- <div class="centered"> -->
+<!-- <img src="img/nestler-fig-1.jpg" height=450px> -->
 
-- Ventral tegmental area (VTA) in midbrain
-- Nucleus accumbens (nAcc)
+<!-- [[@nestler2006mesolimbic]](http://dx.doi.org/10.1016/j.biopsych.2005.09.018) -->
+<!-- </div> -->
 
-- Hypothalamus (Hyp)
-- Amygdala (Amy)
-- Hippocampus (HP)
-- Dorsal Raphe Nucleus/Locus Coeruleus (DR/LC)
-- Prefrontal cortex (PFC)
+<!-- ## Nodes in the "reward" circuit -->
 
-<div class="notes">
-Other nodes in this "reward" network include...
-</div>
+<!-- - Ventral tegmental area (VTA) in midbrain -->
+<!-- - Nucleus accumbens (nAcc) -->
 
-## Nucleus accumbens and dorsal striatum
+<!-- - Hypothalamus (Hyp) -->
+<!-- - Amygdala (Amy) -->
+<!-- - Hippocampus (HP) -->
+<!-- - Dorsal Raphe Nucleus/Locus Coeruleus (DR/LC) -->
+<!-- - Prefrontal cortex (PFC) -->
 
-<div class="centered">
-<img src="img/kohls-fig-2.jpg" height=450px>
+<!-- ## Nucleus accumbens and dorsal striatum -->
 
-[[@kohls2012social]](http://dx.doi.org/10.1186/1866-1955-4-10)
-</div>
+<!-- <div class="centered"> -->
+<!-- <img src="img/kohls-fig-2.jpg" height=450px> -->
 
-<div class="notes">
-Here's another view of some of the circuits involved in pleasure/reweard that shows their interconnections. Here, the nucleus accumbens is called the ventral striatum (VS).
-</div>
+<!-- [[@kohls2012social]](http://dx.doi.org/10.1186/1866-1955-4-10) -->
+<!-- </div> -->
 
-## Psychopharmacology of 'happiness'
+<!-- ## Psychopharmacology of 'happiness' -->
 
-- Dopamine
-- Opioids
-- Cannabinoids
-- Serotonin, Norepinephrine
-- ACh
+<!-- - Dopamine -->
+<!-- - Opioids -->
+<!-- - Cannabinoids -->
+<!-- - Serotonin, Norepinephrine -->
+<!-- - ACh -->
 
-<div class="notes">
-The network involved in pleasure/reward involves a distinct set of neurotransmitters: dopamine, opioids, cannabinoids, serotonin and norepinephrine, and acetylcholine.
-</div>
+<!-- ## Endogenous morphine-like NTs (endorphins) from hyp, NST -->
 
-## Endogenous morphine-like NTs (endorphins) from hyp, NST
+<!-- <div class="centered"> -->
+<!-- <img src="img/endorphins-niaa.gif" height=450px> -->
 
-<div class="centered">
-<img src="img/endorphins-niaa.gif" height=450px>
+<!-- [[@clapp-niaa]](http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm) -->
+<!-- </div> -->
 
-[[@clapp-niaa]](http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm)
-</div>
+<!-- ## Endogenous cannabinoid system -->
 
-<div class="notes">
-Researchers in the 1970s first discovered that there were *endogenous* chemicals in the brain that had similar chemical properties to opioid drugs like heroin and morphine. These substances were later shown to be neurotransmitters. So, the brain releases its own *endogenous morphine-like* substances or endorphins. Endorphins bind to receptors that also bind exogenous drugs like heroin.
-</div>
+<!-- - Cannabinoids, psychoactive compounds found in cannibis -->
+<!-- - Cannabinoid CB1 receptors in CNS; CB2 in body, immune system -->
 
-## Endogenous cannabinoid system
+<!-- --- -->
 
-- Cannabinoids, psychoactive compounds found in cannibis
-- Cannabinoid CB1 receptors in CNS; CB2 in body, immune system
+<!-- <div class="centered"> -->
+<!-- <img src="img/fnins-07-00256-g001.jpg" height=400px> -->
 
----
+<!-- [[@flores_cannabinoid-hypocretin_2013]](http://dx.doi.org/10.3389/fnins.2013.00256) -->
+<!-- </div> -->
 
-<div class="centered">
-<img src="img/fnins-07-00256-g001.jpg" height=400px>
+<!-- ## Brain contains its own systems for binding drugs associated with 'pleasure' -->
 
-[[@flores_cannabinoid-hypocretin_2013]](http://dx.doi.org/10.3389/fnins.2013.00256)
-</div>
+<!-- - Endogenous opioids (endorphins) -->
+<!-- - Endogenous cannabinoids -->
 
-<div class="notes">
-Later, researchers discovered that the brain has an endogenous cannabinoid system that exogenous substances like marijuana and hashish bind to. Receptors for cannabinoids are found all over the brain and body.
-</div>
+<!-- ## ACh projections in the CNS -->
 
-## Brain contains its own systems for binding drugs associated with 'pleasure'
+<!-- <div class="centered"> -->
+<!-- <img src="img/ncpneuro0775-f4.jpg" height=450px> -->
 
-- Endogenous opioids (endorphins)
-- Endogenous cannabinoids
+<!-- [[@cock_sleep_2008]](http://dx.doi.org/10.1038/ncpneuro0775) -->
+<!-- </div> -->
 
-<div class="notes">
-This means that the brain contains its own receptors for substances that are known as drugs of pleasure.
-</div>
+<!-- ## Generalizations about happiness/pleasure -->
 
-## ACh projections in the CNS
-
-<div class="centered">
-<img src="img/ncpneuro0775-f4.jpg" height=450px>
-
-[[@cock_sleep_2008]](http://dx.doi.org/10.1038/ncpneuro0775)
-</div>
-
-<div class="notes">
-Acetylcholine also plays a role in the pleasure/reward circuit. We've talked about ACh as the primary NT of CNS output, but it is also a neuromodulator that projects widely, including from the nucleus accumbens (basal forebrain BF), and the dorsal raphe (DR: NE), and locus coeruleus (LC: 5-HT) in the brainstem.
-</div>
-
-## Generalizations about happiness/pleasure
-
-- Types of pleasure activate overlapping areas
-- Pleasure/happiness engage a network of brain areas
-- Pleasure/happiness signaling involves multiple neuromodulators, but DA especially important
-- “Reward” pathways activated by many different inputs.
+<!-- - Types of pleasure activate overlapping areas -->
+<!-- - Pleasure/happiness engage a network of brain areas -->
+<!-- - Pleasure/happiness signaling involves multiple neuromodulators, but DA especially important -->
+<!-- - “Reward” pathways activated by many different inputs. -->
 
 ## Next time
 
