@@ -36,6 +36,24 @@ output:
 - Actions (now)
 - Propensity to act (in the future)
 
+## What is cause? What is effect?
+
+<div class="centered">
+> "Do we run from a bear because we are afraid or are we afraid because we run? William James posed this question more than a century ago, yet the notion that afferent visceral signals are essential for the unique experiences of distinct emotions remains a key unresolved question at the heart of emotional neuroscience."
+
+[[@Harrison2010-nx]](http://doi.org/10.1523/JNEUROSCI.1725-10.2010)
+</div>
+
+## Competing views
+
+- James-Lange
+    - Physiological response -> subjective feelings
+- Cannon-Bard
+    - Severing CNS (spinal cord & vagus) from rest of body leaves emotional expression unchanged
+    - Physiological states slow, don't differentiate among emotions 
+- Schacter-Singer
+    - Physiological arousal + cognitive appraisal -> emotional states
+
 ## What are the different types of emotions?
 
 <div class="centered">
@@ -182,6 +200,48 @@ Cole, P., Gilmore, R.O., Scherf, K.S. & Perez-Edgar, K. (2016). The Proximal Emo
     + Food/non
     + Threat/non
     + Mate/non; offspring/non
+    
+## Imagine a time when you were {sad, happy, angry, afraid, neither}...
+
+- PET imaging, n=41 pre-screened adults
+- [[@Damasio2000-vd]](http://doi.org/10.1038/79871)
+
+---
+
+<div class="centered">
+<img src="img/damasio-sad.jpg">
+
+[[@Damasio2000-vd]](http://doi.org/10.1038/79871)
+</div>
+
+---
+
+<div class="centered">
+<img src="img/damasio-angry.jpg">
+
+[[@Damasio2000-vd]](http://doi.org/10.1038/79871)
+</div>
+
+---
+
+<div class="centered">
+<img src="img/damasio-happy.jpg">
+
+[[@Damasio2000-vd]](http://doi.org/10.1038/79871)
+</div>
+
+---
+
+<div class="centered">
+<img src="img/damasio-fear.jpg">
+
+[[@Damasio2000-vd]](http://doi.org/10.1038/79871)
+</div>
+
+## [[@Damasio2000-vd]](http://doi.org/10.1038/79871)
+
+- Different patterns of activation
+- Insula, somatosensory cortex, cingulate cortex, hypothalamus, midbrain
 
 ## Emotional "computing"
 
@@ -223,7 +283,6 @@ Cole, P., Gilmore, R.O., Scherf, K.S. & Perez-Edgar, K. (2016). The Proximal Emo
 - Autonomic specificity: emotions autonomically unique vs. autonomically identical? [[@levenson_autonomic_2003]](http://conium.org/~ucbpl/docs/72-Autonomic%20Specificity03.pdf)
 - Belief in idea stronger than evidence
 
-<!--
 ## Bodily maps of emotions
 
 <div class="centered">
@@ -244,7 +303,6 @@ Cole, P., Gilmore, R.O., Scherf, K.S. & Perez-Edgar, K. (2016). The Proximal Emo
 ## [[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
 
 >> *We propose that emotions are represented in the somatosensory system as culturally universal categorical somatotopic maps. Perception of these emotion-triggered bodily changes may play a key role in generating consciously felt emotions.*
--->
     
 ## Biological systems involved in specific emotions
 
