@@ -251,7 +251,7 @@ title: "Schedule"
 #### Mon, Oct 23
 
 - Topic
-    - Emotion, Happiness, Reward
+    - Emotion
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 11:310-336
 - Materials
@@ -259,13 +259,16 @@ title: "Schedule"
 
 ### Wed, Oct 25
 
-- Fear and Stress
+- Happiness & reward; fear & stress
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-10-25-happiness-reward-fear.html) | [PDF](lectures/260-2017-10-23-happiness-reward-fear.pdf) |
 
 ### Fri, Oct 27
 
 - **Quiz 3**.
-- Exam 2 returned.
-
+- Exam 2 returned. 
+    - Lecture notes. | [HTML slides](lectures/260-2017-10-27-exam-2-postmortem.html) 
+    
 ---
 
 ## Week 11, October 30 - November 3
