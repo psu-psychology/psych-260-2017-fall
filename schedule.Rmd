@@ -266,13 +266,10 @@ title: "Schedule"
 ### Fri, Oct 27
 
 - **Quiz 3**.
-<<<<<<< HEAD
 - Exam 2 returned. | [Answer key](exam/psych-260-exam-2.ans.pdf) |
     - Lecture notes. | [HTML slides](lectures/psych-260-2017-10-27-exam-2-returned.html) | 
-=======
 - Exam 2 returned. 
     - Lecture notes. | [HTML slides](lectures/260-2017-10-27-exam-2-postmortem.html) 
->>>>>>> 61b9c86cac0b99f353d71dc7405d14079760ed26
     
 ---
 
@@ -283,6 +280,8 @@ title: "Schedule"
 - Sensory systems
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 5:110-121
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-10-30-sensation.html) | [PDF](lectures/260-2017-10-30-sensation.pdf) |
 
 ### Wed, Nov 1
 
