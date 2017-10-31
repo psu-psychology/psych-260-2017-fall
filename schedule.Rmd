@@ -288,6 +288,8 @@ title: "Schedule"
 - Somatosensation
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 5:121-126; 6:162-164
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-11-01-somatosensation.html) | [PDF](lectures/260-2017-11-01-somatosensation.pdf) |
 
 ### Fri, Nov 3
 
