@@ -296,6 +296,8 @@ title: "Schedule"
 - Pain
 - Assignments
     - **Blog post #2 (of 3) due**. | [Assignment details](blog-assignment.html) |
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-11-03-pain.html) | [PDF](lectures/260-2017-11-03-pain.pdf) |
     
 ---
 
