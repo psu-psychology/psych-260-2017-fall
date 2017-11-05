@@ -1,0 +1,331 @@
+---
+title: "260-2017-11-03-pain"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  github_document: default
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Prelude I (5:56)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dxLMr784l0Q" frameborder="0" allowfullscreen></iframe>
+
+## Prelude II (4:56)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tFN5DveQH0o" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- Wrap up on [somatosensation](https://psu-psychology.github.io/psych-260-2017-fall/lectures/260-2017-10-30-sensation.html#26)
+- Pain
+- Blog #2 deadline today
+
+## Size/speed trade-off
+
+<div class="centered">
+<img src="img/axon-size-speed-tradeoff.jpg" height=450px>
+</div>
+
+## From skin to brain
+
+- Cutaneous receptors
+- Dorsal root ganglion
+- Ventral posterior lateral thalamus
+- Primary somatosensory cortex (S1)
+    + Parietal lobe
+    
+## Dermatomes
+
+<div class="centered">
+<img src="img/skin-to-spinal-cord.jpg" height=450px>
+</div>
+    
+## Dermatomes
+
+<div class="centered">
+<img src="img/dermatomes.jpg" height=500px>
+</div>
+
+## Functional segregation
+
+<div class="centered">
+<img src="http://teachmeanatomy.info/wp-content/uploads/Overview-of-the-Dorsal-Column-Medial-Lemniscal-Pathway-1.jpg" height=500px>
+</div>
+
+----
+
+<div class="centered">
+<img src="http://teachmeanatomy.info/wp-content/uploads/The-Spinothalamic-Tracts-Ascending-Sensory-1.jpg" height=500px>
+</div>
+
+## Functional segregation
+
+- Dorsal column/medial leminiscal pathway
+    - Touch, proprioception
+- Spinothalamic tract
+    - Pain, temperature
+
+## Somatatopic maps
+
+<div class="centered">
+<img src="img/s1.jpg" height=450px>
+</div>
+
+## Non-uniform mapping of skin surface
+
+<div class="centered">
+<img src="img/homunculus.jpg" height=450px>
+</div>
+
+## Non-uniform mapping of skin surface {.smaller}
+
+<div class="centered">
+<img src="img/two-point-thresholds.jpg" height=450px>
+
+<http://jov.arvojournals.org/data/Journals/JOV/933499/jov-3-10-1-fig001.jpeg>
+</div>
+
+## Columnar organization/functional segregation
+
+<div class="centered">
+<img src="img/s1-columns.jpg" height=450px>
+</div>
+
+## Phantom Limbs
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1mHIv5ToMTM" frameborder="0" allowfullscreen></iframe>
+
+##  What/where
+
+- Perceiving Where
+    + Somatotopic maps -- where on skin
+    + Kinesthesia -- configuration of limbs
+- Perceiving What
+    + Patterns of smoothness, roughness, shape, temperature
+    
+## Somatosensation in other animals
+
+<div class="centered">
+<img src="http://www.bristol.ac.uk/media-library/sites/synaptic/migrated/images/somcort.gif" height=500px>
+</div>
+
+## The neuroscience of pain
+
+- *Nociceptors* (Latin *nocere* to harm or hurt) detect harmful or potentially harmful stimuli of varied types:
+    - chemical
+    - mechanical
+    - thermal
+
+## Nociception
+
+- External
+    - Skin, cornea (eye), mucosa
+- Internal
+    - Muscles, joints, bladder, gut
+
+## Interoception
+
+- Receptors for
+    - metabolism (acidic pH, hypoxia, ...)
+    - cell rupture (ATP and glutamate)
+    - cutaneous parasite penetration (histamine)
+    - mast cell (white blood cell) activation (serotonin, bradykinin, ...)
+    - immune and hormonal activity (cytokines and somatostatin)
+    
+## Fast ($A\delta$) and slow ($C$) transmission to CNS
+
+<div class="centered">
+<img src="img/axon-size-speed-tradeoff.jpg" height=450px>
+</div>
+
+## Thermal grill illusion
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otweN9sCSd8" frameborder="0" allowfullscreen></iframe>
+
+---
+
+<div class="centered">
+<img src="https://i.pinimg.com/236x/0e/d4/65/0ed465fbe0fa04c502c3fa32a5285c9e--atera-snow-angels.jpg">
+</div>
+
+## 'Cross-talk' between nociceptor channels
+
+<div class="centered">
+<a href="https://www.nature.com/neuro/journal/v17/n2/full/nn.3629.html">
+<img src="https://www.nature.com/neuro/journal/v17/n2/images_article/nn.3629-F3.jpg" height=450px>
+</a>
+</div>
+
+## Projection to brain via anterolateral system
+
+<div class="centered">
+<img src="http://teachmeanatomy.info/wp-content/uploads/The-Spinothalamic-Tracts-Ascending-Sensory-1.jpg" height=500px>
+</div>
+
+---
+
+<div class="centered">
+<a href="https://www.nature.com/articles/nrn894#f1">
+<img src="https://images.nature.com/lw926/nature-assets/nrn/journal/v3/n8/images/nrn894-f1.gif" height=450px>
+</a>
+
+[[@Craig2002-ce]](http://doi.org/10.1038/nrn894)
+</div>
+
+## Key CNS nodes in network
+
+- Periaqueductal grey (PAG)
+- Insular cortex (insula)
+- Hypothalamus
+- Amygdala
+
+## Key CNS nodes in network
+
+- Thalamus
+    - Ventroposterior lateral nucleus
+    - Ventroposterior medial nucleus
+    - Ventromedial nucleus
+
+---
+
+<div class="centered">
+<img src="http://www.annevanrossum.com/images/blog/thalamus1.jpg">
+</div>
+
+---
+
+<div class="centered">
+<a href="https://www.nature.com/articles/nrn894#f1">
+<img src="https://images.nature.com/lw926/nature-assets/nrn/journal/v3/n8/images/nrn894-f2.gif" height=500px>
+</a>
+
+[[@Craig2002-ce]](http://doi.org/10.1038/nrn894)
+</div>
+
+## Pain in the brain {.smaller}
+
+<div class="centered">
+<a href="http://www.nejm.org/doi/10.1056/NEJMoa1204471">
+<img src="http://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2013/nejm_2013.368.issue-15/nejmoa1204471/20170324/images/large/nejmoa1204471_f1.jpeg" height=450px>
+</a>
+
+[[@Wager2013-uw]](http://doi.org/10.1056/NEJMoa1204471)
+</div>
+
+## Pain in the brain
+
+<div class="centered">
+"*...we used machine-learning analyses to identify a pattern of fMRI activity across brain regions — a neurologic signature — that was associated with heat-induced pain. The pattern included the <span class="blue">thalamus, the posterior and anterior insulae, the secondary somatosensory cortex, the anterior cingulate cortex, the periaqueductal gray matter, and other areas...</span>*"
+</div>
+
+[[@Wager2013-uw]](http://doi.org/10.1056/NEJMoa1204471)
+
+## Pain relief
+
+- *Prostaglandins*
+    - hormone-like effects, but released in many places
+    - trigger vasodilation and inflammation
+
+## Pain relief
+
+- *Paracetymol (acetaminophen)*
+    - Mechanism not fully understood
+    - inhibits synthesis of prostaglandins via cyclooxygenase (COX) enzyme
+    - may modulate endocannabinoid system
+- *Nonsteroidal anti-inflamatory drugs (NSAIDs)*: aspirin, ibuprofen
+    - Also inhibit prostaglandins via COX
+
+## Pain relief
+
+- *Opioids*
+    - Activate endogenous opioid systems
+    - multiple receptor types ($\delta$, $\kappa$, $\mu$,...)
+    - peripheral sensory neurons, amygdala, hypothalamus, PAG, spinal cord, cortex, medulla, pons,...
+    - brainstem opioid neurons provide *descending* inhibition of nociceptors
+    
+---
+
+<div class="centered">
+<img src="http://www.neurology.org/content/79/8/807/F1.large.jpg" height=500px>
+</div>
+
+---
+
+<div class="centered">
+<img src="https://images-na.ssl-images-amazon.com/images/I/510PjwGtTpL._SY355_.jpg" height=450px>
+</div>
+    
+## Pain relief
+
+- *Capsaicin*
+    - Binds to TRPV1 receptor in thermo/nociceptors
+    - Alters how peripheral neuron responds to mechanical stimulation
+    - [[@Borbiro2015-ik]](http://doi.org/10.1126/scisignal.2005667)
+    
+## Pain relief
+
+- Why rubbing can help
+
+<div class="centered">
+<img src="img/axon-size-speed-tradeoff.jpg" height=450px>
+</div>
+
+## Gate control theory [@Melzack1965-va] {.smaller}
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Gate_control_no_A.svg#/media/File:Gate_control_no_A.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gate_control_no_A.svg/1200px-Gate_control_no_A.svg.png" alt="Gate control no A.svg" height=450px></a><br>By self - self-made in Inkscape, <a href="http://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3542661">Link</a></p>
+
+## Gate control theory [@Melzack1965-va] {.smaller}
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Gate_control_A_firing.svg#/media/File:Gate_control_A_firing.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gate_control_A_firing.svg/1200px-Gate_control_A_firing.svg.png" alt="Gate control A firing.svg" height=450px></a><br>By self - self-made in Inkscape, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3542671">Link</a></p>
+    
+## Psychological and physical dimensions {.smaller}
+
+<div class="centered">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0149763414002978-gr1.jpg" height=450px>
+
+[[@Papini2015-ed]](http://dx.doi.org/10.1016/j.neubiorev.2014.11.012)
+</div>
+
+## Main points
+
+- Somatosensation
+    - Exteroception via
+        - Cutaneous receptors + proprioception
+    - Interoception via
+        - Widely distributed receptors
+        - Specific and non-specific
+
+## Main points
+
+- Pain
+    - Multiple receptor channels
+    - Highly interconnected CNS network
+    - Multiple targets for modulation
+
+## Next time...
+
+- Action
+
+<!-- Scrolling final reference page -->
+<!-- http://stackoverflow.com/q/38260799 -->
+<style>
+slides > slide { overflow: scroll; }
+slides > slide:not(.nobackground):before {
+  background: none;
+  }
+slides > slide:not(.nobackground):after {
+  content: '';
+  background: none;
+  }
+}
+</style>
+
+## References {.smaller}

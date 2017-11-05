@@ -1,0 +1,558 @@
+---
+title: "psych-260-2017-10-27-exam-2-returned"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Please put in their proper order the steps that lead to synaptic communication between neurons. Begin with the *presynaptic* cell.
+
+---
+
+- Voltage-gated Ca++ channels open.
+- Ca++ flow initiates exocytosis of neurotransmitter.
+- Action potential propagates down the axon to the axon terminal.
+- Ligand-gated receptors bind neurotransmitter and activate channels in the postsynaptic cell.
+- Neurotransmitter diffuses across the synaptic cleft.
+
+---
+
+- (Q2) Voltage-gated Ca++ channels open.
+- (Q3) Ca++ flow initiates exocytosis of neurotransmitter.
+- (Q1) Action potential propagates down the axon to the axon terminal.
+- (Q5) Ligand-gated receptors bind neurotransmitter and activate channels in the postsynaptic cell.
+- (Q4) Neurotransmitter diffuses across the synaptic cleft.
+
+## 6. If a neurotransmitter causes a postsynaptic terminal to *open* a $K^+$ channel, thus increasing the outward flow of this ion, the result will be an ????.
+
+- excitatory pre-synaptic potential
+- inhibitory post-synaptic potential
+- enhanced peri-synaptic potential
+- intrinsic pre-synaptic potential
+
+## 6. If a neurotransmitter causes a postsynaptic terminal to *open* a $K^{+}$ channel, thus increasing the outward flow of this ion, the result will be an ????.
+
+- excitatory pre-synaptic potential
+- <span class="green">inhibitory post-synaptic potential</span>
+- enhanced peri-synaptic potential
+- intrinsic pre-synaptic potential
+
+## 7. The brain's response to threatening or challenging situations involves both a/an ???? component (via the release of corticosteroids) and a/an ???? component (via the sympathetic nervous system).
+
+- endocrine; neural
+- dopamine; serotonin
+- glutamate; GABA
+- monoamine; amino acid
+
+## 7. The brain's response to threatening or challenging situations involves both a/an ???? component (via the release of corticosteroids) and a/an ???? component (via the sympathetic nervous system).
+
+- <span class="green">endocrine; neural</span>
+- dopamine; serotonin
+- glutamate; GABA
+- monoamine; amino acid
+
+## Match the hormone to its function: 8. Oxytocin; 9. Cortisol
+
+- stress response; increases blood glucose levels; anti-inflammatory effect.
+- uterine contraction; milk release; bonding.
+- regulates seasonal changes; sexual maturation.
+- blood vessel constriction; antidiuretic hormone.
+
+## Match the hormone to its function: <span class="blue">8. Oxytocin</span>; <span class="green">9. Cortisol</span>
+
+- <span class="green">stress response; increases blood glucose levels; anti-inflammatory effect.</span>
+- <span class="blue">uterine contraction; milk release; bonding</span>
+- regulates seasonal changes; sexual maturation.
+- blood vessel constriction; antidiuretic hormone.
+
+## 10. Botulinum toxin (botox) blocks the release of acetylcholine (ACh) from presynaptic terminals. In large quantities, this can be ???? because it ????.
+
+-  good; speeds the conduction of action potentials.
+-  bad; blocks communication to muscle fibers.
+-  good; accelerates $K^+$ flow.
+-  bad; affects the size and number of presynaptic IPSPs.
+
+## 10. Botulinum toxin (botox) blocks the release of acetylcholine (ACh) from presynaptic terminals. In large quantities, this can be ???? because it ????.
+
+-  good; speeds the conduction of action potentials.
+-  <span class="green">bad; blocks communication to muscle fibers.</span>
+-  good; accelerates $K^+$ flow.
+-  bad; affects the size and number of presynaptic IPSPs.
+
+## 11. ???? is a kind of ???? brain imaging method used to study axon fiber (white matter) tracts.
+
+- Structural MRI; structural.
+- Positron Emission Tomography (PET); functional.
+- Magnetoencephalography; functional.
+- diffusion tensor imaging (DTI); structural.
+
+## 11. ???? is a kind of ???? brain imaging method used to study axon fiber (white matter) tracts.
+
+- Structural MRI; structural.
+- Positron Emission Tomography (PET); functional.
+- Magnetoencephalography; functional.
+- <span class="green">diffusion tensor imaging (DTI); structural.</span>
+
+## 12. The enzyme AChE contributes to the ???? of ????.
+
+-  Breakdown and inactivation; acetylcholine.
+-  Breakdown and inactivation; dopamine, norepinephrine, and epinephrine.
+-  Postsynaptic reuptake; serotonin.
+-  Increase in monoamine levels; GABA-releasing neurons.
+
+## 12. The enzyme AChE contributes to the ???? of ????.
+
+-  <span class="green">Breakdown and inactivation; acetylcholine.</span>
+-  Breakdown and inactivation; dopamine, norepinephrine, and epinephrine.
+-  Postsynaptic reuptake; serotonin.
+-  Increase in monoamine levels; GABA-releasing neurons.
+
+## 13. This neurotransmitter is released by motor neurons onto skeletal muscle.
+
+- GABA
+- Serotonin
+- Acetylcholine
+- Glutamate
+
+## 13. This neurotransmitter is released by motor neurons onto skeletal muscle.
+
+- GABA
+- Serotonin
+- <span class="green">Acetylcholine</span>
+- Glutamate
+
+## 14. Selective reuptake inhibitors like Prozac act on ????, ???? the normal process of inactivation.
+
+-  synaptic vesicles; slowing.
+-  postsynaptic receptors; accelerating.
+-  presynaptic transporters; slowing.
+-  $Na^+$/$K^+$ pumps; accelerating.
+
+## 14. Selective reuptake inhibitors like Prozac act on ????, ???? the normal process of inactivation.
+
+-  synaptic vesicles; slowing.
+-  postsynaptic receptors; accelerating.
+-  <span class="green">presynaptic transporters; slowing.</span>
+-  $Na^+$/$K^+$ pumps; accelerating.
+
+## 15. The meso-limbo-cortical projection from the ???? in the midbrain releases the neurotransmitter ????.
+
+- ventral tegmental area; dopamine.
+- raphe nucleus; NE.
+- superior colliculus; glutamate.
+- thalamus; GABA.
+
+## 15. The meso-limbo-cortical projection from the ???? in the midbrain releases the neurotransmitter ????.
+
+- <span class="green">ventral tegmental area; dopamine.</span>
+- raphe nucleus; NE.
+- superior colliculus; glutamate.
+- thalamus; GABA.
+
+## 16. The lateral fissure divides the ????.
+
+- left hemisphere from the right.
+- temporal lobe from the frontal and parietal lobes.
+- frontal lobe from the parietal lobes.
+- corpus callosum from the anterior commissure.
+
+## 16. The lateral fissure divides the ????.
+
+- left hemisphere from the right.
+- <span class="green">temporal lobe from the frontal and parietal lobes.</span>
+- frontal lobe from the parietal lobes.
+- corpus callosum from the anterior commissure.
+
+## 17. This small cell type contributes to the `pruning' of dendritic spines from unused synapses in the CNS.
+
+- Pyramidal cells.
+- microglia.
+- Schwann cells.
+- Stellate cells.
+
+## 17. This small cell type contributes to the `pruning' of dendritic spines from unused synapses in the CNS.
+
+- Pyramidal cells.
+- <span class="green">microglia.</span>
+- Schwann cells.
+- Stellate cells.
+
+## 18. ???? receptors do not contain their own ion channel.
+
+- ionotropic
+- metabotropic
+- ligand-gated
+- voltage-gated
+
+## 18. ???? receptors do not contain their own ion channel.
+
+- ionotropic
+- <span class="green">metabotropic</span>
+- ligand-gated
+- voltage-gated
+
+## 19. ???? is the primary *excitatory* neurotransmitter in the CNS; ???? is the primary neurotransmitter of *CNS output*.
+
+- GABA; glutamate.
+- glutamate; GABA.
+- glutamate; acetylcholine.
+- Acetylcholine; glutamate.
+
+## 19. ???? is the primary *excitatory* neurotransmitter in the CNS; ???? is the primary neurotransmitter of *CNS output*.
+
+- GABA; glutamate.
+- glutamate; GABA.
+- <span class="green">glutamate; acetylcholine.</span>
+- Acetylcholine; glutamate.
+
+## 20. Hormonal action ???? than neuronal action.
+
+- is faster-acting.
+- is more specific in its effects.
+- is slower-acting.
+- involves greater voluntary control.
+
+## 20. Hormonal action ???? than neuronal action.
+
+- is faster-acting.
+- is more specific in its effects.
+- <span class="green">is slower-acting.</span>
+- involves greater voluntary control.
+
+## 21. Opening a channel permeable to $Na^+$ in a neuron at its resting potential would have a/an ???? effect.
+
+- excitatory.
+- inhibitory.
+- modulatory.
+- Ca++ activating.
+
+## 21. Opening a channel permeable to $Na^+$ in a neuron at its resting potential would have a/an ???? effect.
+
+- <span class="green">excitatory.</span>
+- inhibitory.
+- modulatory.
+- Ca++ activating.
+
+## Match the endocrine structure with the function: 22. Hypothalamus; 23. Adrenal Cortex
+
+- Circadian rhythms.
+- Responds to adrenocoricotropic hormone (ACTH) by releasing cortisol.
+- Releases NE and epinephrine.
+- Controls hormone secretions into and by pituitary.
+
+## Match the endocrine structure with the function: <span class="blue">22. Hypothalamus</span>; <span class="green">23. Adrenal Cortex</span>
+
+- Circadian rhythms.
+- <span class="green">Responds to adrenocoricotropic hormone (ACTH) by releasing cortisol.</span>
+- Releases NE and epinephrine.
+- <span class="blue">Controls hormone secretions into and by pituitary.</span>
+
+## Match the Roman numeral in the figure below, to the processes and structures in the hormonal action cycle the figure depicts.
+
+---
+
+<div class="centered">
+<img src="../exam/img/oxytocin.jpg" height=400px>
+</div>
+
+## I (24)
+
+- Nerve impulses activate temporal lobe neurons.
+- Nerve impulses activate the hypothalamus.
+- Nerve impluses activate the anterior pituitary.
+- Somatosensory cortex activates the thalamus.
+
+## I (24)
+
+- Nerve impulses activate temporal lobe neurons.
+- <span class="green">Nerve impulses activate the hypothalamus.</span>
+- Nerve impluses activate the anterior pituitary.
+- Somatosensory cortex activates the thalamus.
+
+## II (25)
+
+- Posterior pituitary.
+- Hippocampus.
+- Anterior pituitary.
+- Hypothalamus.
+
+## II (25)
+
+- Posterior pituitary.
+- Hippocampus.
+- Anterior pituitary.
+- <span class="green">Hypothalamus.</span>
+
+## III (26)
+
+- Posterior pituitary.
+- Anterior pituitary.
+- Pineal gland.
+- Hypothalamus.
+
+## III (26)
+
+- <span class="green">Posterior pituitary.</span>
+- Anterior pituitary.
+- Pineal gland.
+- Hypothalamus.
+
+## IV (27)
+
+- Release of GnRH into blood stream.
+- Release of melatonin into blood stream.
+- Release of oxytocin into blood stream.
+- Release of cortisol into blood stream.
+
+## IV (27)
+
+- Release of GnRH into blood stream.
+- Release of melatonin into blood stream.
+- <span class="green">Release of oxytocin into blood stream.</span>
+- Release of cortisol into blood stream.
+
+## 28. Both Parkinson's Disease and schizophrenia have been linked to disturbances in ???? neurotransmitter systems.
+
+-  dopamine.
+-  GABA.
+-  acetylcholine.
+-  serotonin.
+
+## 28. Both Parkinson's Disease and schizophrenia have been linked to disturbances in ???? neurotransmitter systems.
+
+-  <span class="green">dopamine.</span>
+-  GABA.
+-  acetylcholine.
+-  serotonin.
+
+## 29. The human neural tube begins to form at about ???? weeks of gestation, eventually becoming the ????. 
+
+- 13; peripheral nervous system
+- 40; autonomic nervous system
+- 3; cerebral ventricles \& central canal of the spinal cord
+- 1; cerebral aqueduct of the midbrain
+
+## 29. The human neural tube begins to form at about ???? weeks of gestation, eventually becoming the ????. 
+
+- 13; peripheral nervous system
+- 40; autonomic nervous system
+- <span class="green">3; cerebral ventricles \& central canal of the spinal cord</span>
+- 1; cerebral aqueduct of the midbrain
+
+## 30. The release of the circadian-rhythm-regulating hormone ???? from the ???? is controlled by a sympathetic nervous system neuron which releases ???? as a neurotransmitter.
+
+- melatonin; pineal gland; norepinephrine
+- melanin; posterior pituitary; GABA
+- vasopressin; anterior pituitary; dopamine
+- norepinephrine; adrenal cortex; serotonin
+
+## 30. The release of the circadian-rhythm-regulating hormone ???? from the ???? is controlled by a sympathetic nervous system neuron which releases ???? as a neurotransmitter.
+
+- <span class="green">melatonin; pineal gland; norepinephrine</span>
+- melanin; posterior pituitary; GABA
+- vasopressin; anterior pituitary; dopamine
+- norepinephrine; adrenal cortex; serotonin
+
+## 31. A chemical released by one neuron onto another neuron is called a ???? while one released by a neuron into the bloodstream is called a ????.
+
+- tropic hormone; releasing hormone
+- reuptake inhibitor; endocrine enhancer
+- neurotransmitter; hormone
+- ligand-gated channel; voltage-gated channel
+
+## 31. A chemical released by one neuron onto another neuron is called a ???? while one released by a neuron into the bloodstream is called a ????.
+
+- tropic hormone; releasing hormone
+- reuptake inhibitor; endocrine enhancer
+- <span class="green">neurotransmitter; hormone</span>
+- ligand-gated channel; voltage-gated channel
+
+## 32. Specialized molecules embedded in the presynaptic membrane called transporters contribute to the ???? phase of neurotransmitter release.
+
+- inactivation
+- action potential
+- voltage-gated $Ca^++$ exit
+- second messenger signaling
+
+## 32. Specialized molecules embedded in the presynaptic membrane called transporters contribute to the ???? phase of neurotransmitter release.
+
+- <span class="green">inactivation</span>
+- action potential
+- voltage-gated $Ca^++$ exit
+- second messenger signaling
+
+## 33. One feature of the human brain that now appears especially distinctive and important in explaining our cognitive capacity is the ????.
+
+- number of neurons in the cerebral cortex
+- number of neurons in the cerebellum
+- the size of the cerebellum
+- the speed of action potential propagation
+
+## 33. One feature of the human brain that now appears especially distinctive and important in explaining our cognitive capacity is the ????.
+
+- <span class="green">number of neurons in the cerebral cortex</span>
+- number of neurons in the cerebellum
+- the size of the cerebellum
+- the speed of action potential propagation
+
+## 34. The first animals with neurons and nervous systems emerged around the time of the ????, about ???? years ago.
+
+- "Big Bang"; 13.8 billion
+- formation of the Earth; 4.6 billion
+- Cambrian Explosion; 540 million
+- end of the last Ice Age; 12,000
+
+## 34. The first animals with neurons and nervous systems emerged around the time of the ????, about ???? years ago.
+
+- "Big Bang"; 13.8 billion
+- formation of the Earth; 4.6 billion
+- <span class="green">Cambrian Explosion; 540 million</span>
+- end of the last Ice Age; 12,000
+
+## 35. Cortical areas in humans have maximal *synaptic density* ????.
+
+- in the 30s and 40s
+- in adolescence
+- prenatally
+- before the age of 5.
+
+## 35. Cortical areas in humans have maximal *synaptic density* ????.
+
+- in the 30s and 40s
+- in adolescence
+- prenatally
+- <span class="green">before the age of 5.</span>
+
+## 36. The formation of synapses (synaptogenesis) ????; myelination ????.
+
+- continues long after birth; also continues long after birth.
+- continues long after birth; stops before birth.
+- ends before birth; continues long after birth.
+- ends before birth; also ends before birth.
+
+## 36. The formation of synapses (synaptogenesis) ????; myelination ????.
+
+- <span class="green">continues long after birth; also continues long after birth.</span>
+- continues long after birth; stops before birth.
+- ends before birth; continues long after birth.
+- ends before birth; also ends before birth.
+
+## 37. Across the animal kingdom, bigger animals generally have ???? brains.
+
+- bigger.
+- smaller.
+- smooother, less wrinkled.
+- radially symmetric.
+
+## 37. Across the animal kingdom, bigger animals generally have ???? brains.
+
+- <span class="green">bigger.</span>
+- smaller.
+- smooother, less wrinkled.
+- radially symmetric.
+
+## 38. The vast majority of neurons and glia in the CNS are generated ???? from a set of precursor cells that line the ????.
+
+- prenatally; neural tube
+- prenatally; synaptic vesicles
+- postnatally; neural tube
+- postnatally; synaptic vesicles
+
+## 38. The vast majority of neurons and glia in the CNS are generated ???? from a set of precursor cells that line the ????.
+
+- <span class="green">prenatally; neural tube</span>
+- prenatally; synaptic vesicles
+- postnatally; neural tube
+- postnatally; synaptic vesicles
+
+## 39. Gap junctions support ???? between cells.
+
+- direct electrical coupling
+- chemical communication
+- slow communication
+- hormonal signaling
+
+## 39. Gap junctions support ???? between cells.
+
+- <span class="green">direct electrical coupling</span>
+- chemical communication
+- slow communication
+- hormonal signaling
+
+## 40. The release of glutamate onto an AMPA receptor on a neuron's dendrite produces an ????.
+
+- inhibitory postsynaptic potential (IPSP)
+- electrochemical postsynaptic potential (EPSP)
+- inwardly-driven postsynaptic potential (IPSP)
+- excitatory postsynaptic potential (EPSP)
+
+## 40. The release of glutamate onto an AMPA receptor on a neuron's dendrite produces an ????.
+
+- inhibitory postsynaptic potential (IPSP)
+- electrochemical postsynaptic potential (EPSP)
+- inwardly-driven postsynaptic potential (IPSP)
+- <span class="green">excitatory postsynaptic potential (EPSP)</span>
+
+## 41. The hippocampus is located deep within which lobe of the cerebral cortex?
+
+- Temporal.
+- Frontal.
+- Parietal.
+- Occipital.
+
+## 41. The hippocampus is located deep within which lobe of the cerebral cortex?
+
+- <span class="green">Temporal.</span>
+- Frontal.
+- Parietal.
+- Occipital.
+
+## 42. All of these brain development processes show patterns of increase and decline in the first several months (or years) of life *except*.
+
+- myelination
+- synaptogenesis
+- thickness of cerebral cortex
+- number of neurons in spinal cord.
+
+## 42. All of these brain development processes show patterns of increase and decline in the first several months (or years) of life *except*.
+
+- <span class="green">myelination</span>
+- synaptogenesis
+- thickness of cerebral cortex
+- number of neurons in spinal cord.
+
+## 43. The 10th cranial (Xth) or vagus nerve connects to the ???? branch of the autonomic nervous system. Its neurons tend to slow heart rate and activate digestion when stimulated.
+
+- parasympathetic.
+- sympathetic.
+- enteric.
+- somatic.
+
+## 43. The 10th cranial (Xth) or vagus nerve connects to the ???? branch of the autonomic nervous system. Its neurons tend to slow heart rate and activate digestion when stimulated.
+
+- <span class="green">parasympathetic.</span>
+- sympathetic.
+- enteric.
+- somatic.
+
+## 44. Corticotropin Releasing Hormone (CRH) is released by the ???? into the ????.
+
+- hippocampus; amygdala.
+- adrenal cortex; blood stream.
+- hypothalamus; anterior pituitary.
+- medulla oblongata; adrenal medulla.
+
+## 44. Corticotropin Releasing Hormone (CRH) is released by the ???? into the ????.
+
+- hippocampus; amygdala.
+- adrenal cortex; blood stream.
+- <span class="green">hypothalamus; anterior pituitary.</span>
+- medulla oblongata; adrenal medulla.

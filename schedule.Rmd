@@ -308,6 +308,8 @@ title: "Schedule"
 - Action
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 5:126-143
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-11-06-action.html) | [PDF](lectures/260-2017-11-06-action.pdf) |
 
 ### Wed, Nov 8
 
