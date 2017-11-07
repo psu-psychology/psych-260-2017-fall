@@ -208,7 +208,7 @@ title: "Schedule"
 
 ### Fri, Oct 13
 
-- **Exam  2**
+- **Exam  2**. | [Answer key](exam/psych-260-exam-2.ans.pdf) |
 
 ---
 
@@ -265,7 +265,7 @@ title: "Schedule"
 
 ### Fri, Oct 27
 
-- **Quiz 3**.
+- **Quiz 3**. | [Answer key](quiz/psych-260-quiz-3-ans.pdf) | 
 - Exam 2 returned. | [Answer key](exam/psych-260-exam-2.ans.pdf) |
     - Lecture notes. | [HTML slides](lectures/psych-260-2017-10-27-exam-2-returned.html) | 
 - Exam 2 returned. 
