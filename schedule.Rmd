@@ -313,8 +313,11 @@ title: "Schedule"
 
 ### Wed, Nov 8
 
-- Action
+- Action II
 - Exam 3 review
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-11-08-action-II.html) | [PDF](lectures/260-2017-11-08-action-II.pdf) |
+    - Study guide. | [HTML slides](lectures/260-2017-11-08-exam-3-review.html) | [PDF](lectures/260-2017-11-08-action-II.pdf) |
 
 ### Fri, Nov 10
 
