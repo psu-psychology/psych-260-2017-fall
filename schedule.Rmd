@@ -332,6 +332,8 @@ title: "Schedule"
 - Audition
 - Assignments
   - Read [W&B](https://2e.mindsmachine.com/) 6:144-162
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-11-13-audition.html) | [PDF](lectures/260-2017-11-13-audition.pdf) |
 
 ### Wed, Nov 15
 
