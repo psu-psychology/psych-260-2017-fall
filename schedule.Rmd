@@ -337,9 +337,12 @@ title: "Schedule"
 
 ### Wed, Nov 15
 
-- Vision I
+- Vision
 - Assignments
     - Read [W&B](https://2e.mindsmachine.com/) 7:174-185.
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-11-15-vision.html) | [PDF](lectures/260-2017-11-15-vision.pdf) |
+    - [Extra credit opportunity](lectures/260-2017-11-15-extra-credit.html)
 
 ### Fri, Nov 17
 
