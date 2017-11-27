@@ -363,10 +363,13 @@ title: "Schedule"
 
 ### Mon, Nov 27
 
+- Wrap up on vision
 - Learning & memory
 - Assignments
     - Read 13:368-383
 - **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-11-27-vision-II.html) | [PDF](lectures/260-2017-11-15-vision-II.pdf) |
 
 ### Wed, Nov 30
 
@@ -389,7 +392,7 @@ title: "Schedule"
 
 ### Wed, Dec 6
 
-- Review for Exam 4.
+- Review for Exam 4
 
 ### Fri, Dec 8
 
