@@ -369,7 +369,7 @@ title: "Schedule"
     - Read 13:368-383
 - **Papers or blog post #3 (of 3) due**. | [Blog assignment details](blog-assignment.html) | [Paper assignment details](paper-assignment.html) |
 - Materials
-    - Lecture notes. | [HTML slides](lectures/260-2017-11-27-vision-II.html) | [PDF](lectures/260-2017-11-15-vision-II.pdf) |
+    - Lecture notes. | [HTML slides](lectures/260-2017-11-27-vision-II.html) | [PDF](lectures/260-2017-11-27-vision-II.pdf) |
 
 ### Wed, Nov 30
 
