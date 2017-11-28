@@ -376,6 +376,8 @@ title: "Schedule"
 - Learning & memory II
 - Assignments
     - Read 13:368-383-393
+- Materials
+    - Lecture notes. | [HTML slides](lectures/260-2017-11-29-memory.html) | [PDF](lectures/260-2017-11-29-memory.pdf) |
 
 ### Fri, Dec 1
 

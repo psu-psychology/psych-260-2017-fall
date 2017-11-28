@@ -1,0 +1,66 @@
+---
+title: "260-2017-11-08-exam-3-review"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Emotion, stress, & reward
+
+- Biological perspectives on (e.g., Plutchik)
+- Acute vs. chronic stressors
+- Nodes in fear processing/stress network
+- Nodes in 'reward' network
+
+## Depression
+
+- Monoamine hypothesis
+- Serotonin role
+- Treatments for
+
+## Schizophrenia
+
+- Dopamine hypothesis
+- Glutamate hypothesis
+- Brain abnormalities
+
+## Bipolar disorder
+
+- Treatments for
+- How differs from/similar to depression, schizophrenia
+
+## Sensory systems
+
+- Topographic maps
+- Non-uniform sensitivity
+- Hierarchical processing (and thalamic relay)
+- Functional segregation
+
+## Sensory systems
+
+- Speed of information processing
+- Primary sensory/motor areas in cortex
+- Receptive fields
+
+## Somatosensation & pain
+
+- Touch, temperature, pain receptors in skin
+- Pathways to cortex
+- How pain relievers work
+
+## Brain evolution & development
+
+- Pre-natal milestones
+- Post-natal trends

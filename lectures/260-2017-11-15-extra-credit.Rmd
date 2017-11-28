@@ -1,0 +1,26 @@
+---
+title: "260-2017-11-15-extra-credit"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Extra credit opportunity (10 pts)
+
+The Department of Psychology is interested in learning what you know and don’t know about psychology. 
+
+Please complete the survey at: 
+
+<https://pennstate.qualtrics.com/jfe/form/SV_6VZpPKnm1dIV5ch>. 
+
+It will take approximately 15 to 20 minutes to complete. 
+
+At the end of the survey,  you will see an individualized completion code, please write down the code or take a screenshot of it as proof of completion. Email or give the completion code to Dr. Gilmore by **Wednesday, November 29, 2017**.
+
+Address all questions to Dr. Gasper (kgasper@psu.edu).

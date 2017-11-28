@@ -31,4 +31,5 @@ You may use your textbook or other reference materials as additional resources. 
 ## Tips for success
 
 - Always use page numbers.
-- Make sure that your essay has an introductory and concluding paragraph.
+- Make sure that your essay has introductory and concluding paragraphs.
+- Save your paper with a file name in this format: `PSYCH260.002_paper_Gilmore_R.docx`, substituting your last name and first initial for mine.
