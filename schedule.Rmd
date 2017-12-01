@@ -268,8 +268,6 @@ title: "Schedule"
 - **Quiz 3**. | [Answer key](quiz/psych-260-quiz-3-ans.pdf) | 
 - Exam 2 returned. | [Answer key](exam/psych-260-exam-2.ans.pdf) |
     - Lecture notes. | [HTML slides](lectures/psych-260-2017-10-27-exam-2-returned.html) | 
-- Exam 2 returned. 
-    - Lecture notes. | [HTML slides](lectures/260-2017-10-27-exam-2-postmortem.html) 
     
 ---
 
@@ -382,7 +380,8 @@ title: "Schedule"
 ### Fri, Dec 1
 
 - **Quiz 4**.
-- Exam 3 returned.
+- Exam 3 returned. | [Answer key](exam/psych-260-exam-3-ans.pdf) |
+    - Lecture notes. | [HTML slides](lectures/260-2017-12-01-exam-3-returned.html) | 
 
 ---
 
