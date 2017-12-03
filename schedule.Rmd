@@ -390,6 +390,7 @@ title: "Schedule"
 ### Mon, Dec 4
 
 - Speed of nervous system conduction lab
+    - Lecture notes. | [HTML slides](lectures/260-2017-12-04-speed-lab.html) | 
 
 ### Wed, Dec 6
 
