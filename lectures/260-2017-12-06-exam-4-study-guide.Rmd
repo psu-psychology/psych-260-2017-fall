@@ -60,7 +60,7 @@ output:
 ## Neurophysiology
 
 - Resting potential
-    + In neuron at rest, [??] inside is greater than outside; What force(s) `____` push [Na+] inward?
+    + In neuron at rest, `____` inside is greater than outside; What force(s) `____` push [Na+] inward?
 - Ca++ influx is involved in `____`, `____`, and `____`.
 - EPSP/IPSPs are `____` than action potentials
 
