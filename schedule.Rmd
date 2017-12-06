@@ -396,7 +396,7 @@ title: "Schedule"
 
 - Review for Exam 4
 - Materials
-    - Study guide. | [HTML slides](lectures/260-2017-12-06-exam-3-study-guide.html) | [PDF](lectures/260-2017-12-06-exam-3-study-guide.pdf) |
+    - Study guide. | [HTML slides](lectures/260-2017-12-06-exam-4-study-guide.html) | [PDF](lectures/260-2017-12-06-exam-4-study-guide.pdf) |
 
 ### Fri, Dec 8
 
