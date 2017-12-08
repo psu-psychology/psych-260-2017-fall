@@ -402,7 +402,7 @@ title: "Schedule"
 
 - The Cerebral Symphony
 - Materials
-    - | [HTML slides](lectures/260-2017-12-08-cerebral-symphony.html) |
+    - [HTML slides](lectures/260-2017-12-08-cerebral-symphony.html)
 
 ---
     
